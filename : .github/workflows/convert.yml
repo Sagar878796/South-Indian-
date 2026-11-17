@@ -1,0 +1,71 @@
+
+name: M3U URL to JSON
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/10 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Convert M3U URL to JSON
+        run: |
+          python - <<'PY'
+          import urllib.request
+          import json
+          import re
+
+          url = "https://raw.githubusercontent.com/Sagar878796/my-m3u-playlist/refs/heads/main/Combined.m3u"
+
+          req = urllib.request.Request(
+              url,
+              headers={"User-Agent": "Mozilla/5.0"}
+          )
+
+          data = urllib.request.urlopen(req, timeout=60).read().decode("utf-8-sig")
+
+          channels = []
+          current = None
+
+          for line in data.splitlines():
+              line = line.strip()
+
+              if line.startswith("#EXTINF:"):
+                  name = re.search(r',\s*(.*)$', line)
+                  group = re.search(r'group-title="([^"]*)"', line)
+                  logo = re.search(r'tvg-logo="([^"]*)"', line)
+
+                  current = {
+                      "name": name.group(1).strip() if name else "Unknown",
+                      "category": group.group(1) if group else "Other",
+                      "logo": logo.group(1) if logo else "",
+                      "url": ""
+                  }
+
+              elif current and line.startswith("http"):
+                  current["url"] = line
+                  channels.append(current)
+                  current = None
+
+          with open("playlist.json", "w", encoding="utf-8") as f:
+              json.dump(channels, f, ensure_ascii=False, indent=2)
+
+          print("Total channels:", len(channels))
+          PY
+
+      - name: Push JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playlist.json
+          git diff --cached --quiet || git commit -m "Update playlist JSON"
+          git push
+          
