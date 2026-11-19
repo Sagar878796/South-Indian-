@@ -1,6 +1,6 @@
 {
   "name": "SDTV LIVE",
-  "total": 1504,
+  "total": 1510,
   "channels": [
     {
       "name": "YRF Music",
@@ -2932,7 +2932,7 @@
       "category": "SonyLIV | Sportlink",
       "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029286/1794981614833787_NZvsIND_1st_test_day1_landscape_thumb.jpg",
       "tvg_id": "",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795098813~acl=/*~id=99531865786661469814544206003207~hmac=aa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
       "type": "hls",
       "mpd_url": "",
       "clearkey": null
@@ -2942,7 +2942,7 @@
       "category": "SonyLIV | Sportlink",
       "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029286/1794981614833787_NZvsIND_1st_test_day1_landscape_thumb.jpg",
       "tvg_id": "",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795098813~acl=/*~id=99531865786661469814544206003207~hmac=aa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
       "type": "hls",
       "mpd_url": "",
       "clearkey": null
@@ -2952,7 +2952,7 @@
       "category": "SonyLIV | Sportlink",
       "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029286/1794981614833787_NZvsIND_1st_test_day1_landscape_thumb.jpg",
       "tvg_id": "",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795098813~acl=/*~id=99531865786661469814544206003207~hmac=aa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
       "type": "hls",
       "mpd_url": "",
       "clearkey": null
@@ -2962,7 +2962,7 @@
       "category": "SonyLIV | Sportlink",
       "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029286/1794981614833787_NZvsIND_1st_test_day1_landscape_thumb.jpg",
       "tvg_id": "",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795098813~acl=/*~id=99531865786661469814544206003207~hmac=aa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
       "type": "hls",
       "mpd_url": "",
       "clearkey": null
@@ -2972,41 +2972,119 @@
       "category": "SonyLIV | Sportlink",
       "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029286/1794981614833787_NZvsIND_1st_test_day1_landscape_thumb.jpg",
       "tvg_id": "",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795078739~acl=/*~id=74190373465284758152907312460194~hmac=adb038e558b3f3517da0eef31793f2b48a1423ad8c97e3de0abe055ae139fb83",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795098813~acl=/*~id=99531865786661469814544206003207~hmac=aa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
       "type": "hls",
       "mpd_url": "",
       "clearkey": null
     },
     {
-      "name": "ENG | NBA TV International: Basketcast: Basketcast  S2 Eps. 34",
-      "category": "Prime Video | Sportlink",
-      "logo": "https://m.media-amazon.com/images/I/71OAQPUqfXL.jpg",
-      "tvg_id": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
-      "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/3scrwqe5gd/out/v1/acb74fc290c049139fa54cac4bc6c1b5/cenc.mpd",
+      "name": "1080_.jpeg\" group-title=\"Willow | Sportlink\",India tour of New Zealand 2026 - 1st Test - New Zealand vs India",
+      "category": "Uncategorized",
+      "logo": "",
+      "tvg_id": "B0HM4ZHT1F",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mvmval8dm6/out/v1/bad69dbadd144f5ba75a2e9b948a5e0d/cenc.mpd",
       "type": "mpd",
-      "mpd_url": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/3scrwqe5gd/out/v1/acb74fc290c049139fa54cac4bc6c1b5/cenc.mpd",
+      "mpd_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mvmval8dm6/out/v1/bad69dbadd144f5ba75a2e9b948a5e0d/cenc.mpd",
+      "clearkey": {
+        "keyId": "52a0f31918f2a6f97809d3586aa6c41e",
+        "key": "a108a050dfc5cf2065c23370efa58b09"
+      }
+    },
+    {
+      "name": "1080_.jpeg\" group-title=\"Prime Video | Sportlink\",ENG | 1st Test - Day 1 - 19 Nov 2026",
+      "category": "Uncategorized",
+      "logo": "",
+      "tvg_id": "amzn1.dv.gti.5c9d290d-47f9-43d9-82ee-edab9a5048b9",
+      "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/zi2w8baz84/out/v1/bad45b2f0d6548438a60781332e51da1/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/zi2w8baz84/out/v1/bad45b2f0d6548438a60781332e51da1/cenc.mpd",
+      "clearkey": {
+        "keyId": "{\"keys\"",
+        "key": "[{\"kty\":\"oct\",\"kid\":\"NRg_iS0Sp5FpBBciW8QusQ\",\"k\":\"USbgxYCIhlXb-WqVVgSJ9g\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
+      }
+    },
+    {
+      "name": "1080_.jpeg\" group-title=\"Prime Video | Sportlink\",TAM | 1st Test - Day 1 - 19 Nov 2026",
+      "category": "Uncategorized",
+      "logo": "",
+      "tvg_id": "amzn1.dv.gti.10af556f-8e02-49a4-9021-826b8218052a",
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oatolwbhdj/out/v1/640f72527cd4430ebfb636e83166e328/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oatolwbhdj/out/v1/640f72527cd4430ebfb636e83166e328/cenc.mpd",
+      "clearkey": {
+        "keyId": "{\"keys\"",
+        "key": "[{\"kty\":\"oct\",\"kid\":\"GXEGwA9Xb2RI24g2HwMItw\",\"k\":\"V_InIQQi8-jAMj-81OP1cw\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
+      }
+    },
+    {
+      "name": "1080_.jpeg\" group-title=\"Prime Video | Sportlink\",HIN | 1st Test - Day 1 - 19 Nov 2026",
+      "category": "Uncategorized",
+      "logo": "",
+      "tvg_id": "amzn1.dv.gti.362e258b-8bdd-450a-8ccd-5a4098a73a7f",
+      "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w0lonhyyw8/out/v1/78b4a726b305427eb3b8ef5091a28248/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w0lonhyyw8/out/v1/78b4a726b305427eb3b8ef5091a28248/cenc.mpd",
+      "clearkey": {
+        "keyId": "{\"keys\"",
+        "key": "[{\"kty\":\"oct\",\"kid\":\"WAEIOlHM02ZwpcuBFUM3Gw\",\"k\":\"EUYdCaMAu5xyNk28B0W6VA\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
+      }
+    },
+    {
+      "name": "1080_.jpeg\" group-title=\"Prime Video | Sportlink\",TEL | 1st Test - Day 1 - 19 Nov 2026",
+      "category": "Uncategorized",
+      "logo": "",
+      "tvg_id": "amzn1.dv.gti.59225ba2-874c-452e-a7d0-f1e6d62f38ee",
+      "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/cdjw8tgit6/out/v1/78bc5f7836424fa8b180356ddda3c824/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/cdjw8tgit6/out/v1/78bc5f7836424fa8b180356ddda3c824/cenc.mpd",
+      "clearkey": {
+        "keyId": "{\"keys\"",
+        "key": "[{\"kty\":\"oct\",\"kid\":\"Pb3oOpecpLtWBhFXJS42iQ\",\"k\":\"fyZm14JP8t7RIZripLhvCg\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
+      }
+    },
+    {
+      "name": "1080_.jpeg\" group-title=\"Prime Video | Sportlink\",KAN | 1st Test - Day 1 - 19 Nov 2026",
+      "category": "Uncategorized",
+      "logo": "",
+      "tvg_id": "amzn1.dv.gti.ea392047-34b1-4d1b-91ff-b3faabf3d467",
+      "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/x9w1mi4myp/out/v1/5526a1bafd9945588aaf8fe8f5ac669e/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/x9w1mi4myp/out/v1/5526a1bafd9945588aaf8fe8f5ac669e/cenc.mpd",
+      "clearkey": {
+        "keyId": "{\"keys\"",
+        "key": "[{\"kty\":\"oct\",\"kid\":\"GsDAZcI3ybCKgoOxuBDP9w\",\"k\":\"NtVKGrqLHsgjFefYfyYV8Q\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
+      }
+    },
+    {
+      "name": "ENG | NBA TV International: NBA Special: The Warmup presented by DraftKings",
+      "category": "Prime Video | Sportlink",
+      "logo": "https://m.media-amazon.com/images/I/61WPuQYG8hL.jpg",
+      "tvg_id": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
+      "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/3scrwqe5gd/out/v1/acb74fc290c049139fa54cac4bc6c1b5/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/3scrwqe5gd/out/v1/acb74fc290c049139fa54cac4bc6c1b5/cenc.mpd",
       "clearkey": {
         "keyId": "{\"keys\"",
         "key": "[{\"kty\":\"oct\",\"kid\":\"Da-mcst2q5P9xtPY18Hqog\",\"k\":\"eLKrJNiNns2yRjFz38GUXw\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
       }
     },
     {
-      "name": "ENG | FanCode 2: BK Häcken FF vs. Manchester City",
+      "name": "ENG | FanCode 2: Stay Tuned Slate",
       "category": "Prime Video | Sportlink",
-      "logo": "https://m.media-amazon.com/images/I/81hzhHBZIAL.jpg",
+      "logo": "https://m.media-amazon.com/images/I/A1ilv50jNEL.jpg",
       "tvg_id": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/twcny8iyym/out/v1/83184682abbf4c7fbc78b64266100dbd/cenc.mpd",
+      "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/twcny8iyym/out/v1/83184682abbf4c7fbc78b64266100dbd/cenc.mpd",
       "type": "mpd",
-      "mpd_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/twcny8iyym/out/v1/83184682abbf4c7fbc78b64266100dbd/cenc.mpd",
+      "mpd_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/twcny8iyym/out/v1/83184682abbf4c7fbc78b64266100dbd/cenc.mpd",
       "clearkey": {
         "keyId": "{\"keys\"",
         "key": "[{\"kty\":\"oct\",\"kid\":\"GZSx3339LoqNe5vz-5AChQ\",\"k\":\"IqFESz2hjhORkWZbPWUoNQ\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
       }
     },
     {
-      "name": "ENG | FanCode 1: Real Madrid vs. Internazionale",
+      "name": "ENG | FanCode 1: Stay Tuned Slate",
       "category": "Prime Video | Sportlink",
-      "logo": "https://m.media-amazon.com/images/I/81ZzgW33WlL.jpg",
+      "logo": "https://m.media-amazon.com/images/I/A1ilv50jNEL.jpg",
       "tvg_id": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
       "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/a99uhtrbys/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd",
       "type": "mpd",
