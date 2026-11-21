@@ -1,87 +1,7 @@
 {
   "name": "SDTV LIVE",
-  "total": 342,
+  "total": 329,
   "channels": [
-    {
-      "name": "Sky sports cricket em",
-      "category": "Sports",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcL1ZfAiMcm7NsWybZ1KJo9ilUUtRfs4S9uMLTklknN2ubWqU4UW2cuU4&s=10",
-      "tvg_id": "",
-      "url": "https://emb.tvp4.online/p2p/?id=268983",
-      "type": "unknown",
-      "mpd_url": "",
-      "clearkey": null
-    },
-    {
-      "name": "TNT sports 1 em",
-      "category": "Sports",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKGmRsKxQuo8Foab57VKpHh6x9JoYdjpsmALubJTHEy3B3ooLesKQLpac&s=10",
-      "tvg_id": "",
-      "url": "https://emb.tvp4.online/p2p/?id=269484",
-      "type": "unknown",
-      "mpd_url": "",
-      "clearkey": null
-    },
-    {
-      "name": "Willow sports  em",
-      "category": "Sports",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9D7GaAuZA0gqwPFKNdhdkKJaoRJz4qs51KO55bzhSCb1OYTgy2x8reoE&s=10",
-      "tvg_id": "",
-      "url": "https://emb.tvp4.online/p2p/?id=271880",
-      "type": "unknown",
-      "mpd_url": "",
-      "clearkey": null
-    },
-    {
-      "name": "sky sports 4 NZ em",
-      "category": "Sports",
-      "logo": "https://match-images.icdb.tv/87cad4ae601f884b43d06310aba34a9f.jpg",
-      "tvg_id": "",
-      "url": "https://emb.tvp4.online/p2p/?id=270465",
-      "type": "unknown",
-      "mpd_url": "",
-      "clearkey": null
-    },
-    {
-      "name": "Arena Sports 3",
-      "category": "Sports",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtzsgbtfvkt_5WLVkkJh7o8X20vSOCt4xSz2HwHvFzLkI85AfvTjrh6Oax&s=10",
-      "tvg_id": "",
-      "url": "https://emb.tvp4.online/p2p/?id=271218",
-      "type": "unknown",
-      "mpd_url": "",
-      "clearkey": null
-    },
-    {
-      "name": "Arena Premier",
-      "category": "Sports",
-      "logo": "https://mediadaily.biz/wp-content/uploads/2022/08/arena-sport-1-premium-slovenija-ok.jpg",
-      "tvg_id": "",
-      "url": "https://emb.tvp4.online/p2p/?id=271231",
-      "type": "unknown",
-      "mpd_url": "",
-      "clearkey": null
-    },
-    {
-      "name": "Sport 5 ישיר",
-      "category": "Sports",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Sport5_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-      "tvg_id": "",
-      "url": "https://emb.tvp4.online/p2p/?id=269039",
-      "type": "unknown",
-      "mpd_url": "",
-      "clearkey": null
-    },
-    {
-      "name": "SK 2 HD",
-      "category": "Sports",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVnF_vYYM0A2XLaBOptQqcruxEMrWLLDAW9UTuhVpRPw&s=10",
-      "tvg_id": "",
-      "url": "https://emb.tvp4.online/p2p/?id=268669",
-      "type": "unknown",
-      "mpd_url": "",
-      "clearkey": null
-    },
     {
       "name": "MBC SPORTS",
       "category": "Sports",
@@ -2685,7 +2605,7 @@
     {
       "name": "Times Now",
       "category": "News",
-      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/ff9991eb1ad44ddca1df937a771c583d/version/0",
+      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/162d960506c64575affc1c4825c3ae75/version/0",
       "tvg_id": "9487067",
       "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Times_Now/dash/Times_Now.mpd",
       "type": "mpd",
@@ -2789,7 +2709,7 @@
     {
       "name": "Zee Bangla HD",
       "category": "Entertainment",
-      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/1828756c935c477bbf35f5d5d556fac8/version/0",
+      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/dd74c3cd17ff4baca804bce74b811384/version/0",
       "tvg_id": "9504796",
       "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Bangla_HD/dash/Zee_Bangla_HD.mpd",
       "type": "mpd",
@@ -2932,7 +2852,7 @@
     {
       "name": "Zee Power",
       "category": "Entertainment",
-      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/c3166a46bb1945638c6c62bd2aa8bff5/version/0",
+      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/d048d81770964b929d4dc3b32a2cc903/version/0",
       "tvg_id": "9649339",
       "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Power/dash/Zee_Power.mpd",
       "type": "mpd",
@@ -2958,7 +2878,7 @@
     {
       "name": "Zee Sarthak",
       "category": "Entertainment",
-      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/9e787a13afa1447abde693bf57f7f9db/version/0",
+      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/c86007cd6db744eeb8b6f8431e4f363a/version/0",
       "tvg_id": "9487093",
       "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Sarthak/dash/Zee_Sarthak.mpd",
       "type": "mpd",
@@ -3043,13 +2963,13 @@
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Yuva/dash/Zee_Yuva.mpd",
       "clearkey": {
         "keyId": "09c5a56d33a444dda166c60e47103c98",
-        "key": "91872a9e31da6f681fe01f9eddc5ed7f"
+        "key": "3c83365c7b8ccce7cd500c7ce2bb36ca"
       }
     },
     {
       "name": "Zee Zest",
       "category": "Entertainment",
-      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/d2cc8c4a35c44b0bb21c05185150f4a0/version/0",
+      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/180b6b1cab5e4dd4bd44f50d80045491/version/0",
       "tvg_id": "9650645",
       "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Zest_SD/dash/Zee_Zest_SD.mpd",
       "type": "mpd",
@@ -3083,62 +3003,6 @@
       "clearkey": {
         "keyId": "07b6a48d3a094539af45382c1b748bd3",
         "key": "326ce2fd8f8cdae580c9776af2e702ec"
-      }
-    },
-    {
-      "name": "Bangladesh A vs Afghanistan A - 21 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026",
-      "category": "SonyLIV | Sportlink",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg",
-      "tvg_id": "",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795318107~acl=/*~id=99915536993707036728083082347874~hmac=a447d47e7e413fc845e20eb1a5f5d8111bd3083be6fd2b94e9c71668d88aaa32",
-      "type": "hls",
-      "mpd_url": "",
-      "clearkey": null
-    },
-    {
-      "name": "NorthEast United FC vs FC Goa - 21 Nov 2026 [ENG] - MG Indian Super League 2026-27",
-      "category": "SonyLIV | Sportlink",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029506/1795187845283930_ISL26_NorthEast-United-FC-vs-FC-GOA-_landscape_thumb.jpg",
-      "tvg_id": "",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795318107~acl=/*~id=99915536993707036728083082347874~hmac=a447d47e7e413fc845e20eb1a5f5d8111bd3083be6fd2b94e9c71668d88aaa32",
-      "type": "hls",
-      "mpd_url": "",
-      "clearkey": null
-    },
-    {
-      "name": "NorthEast United FC vs FC Goa - 21 Nov 2026 [HIN] - MG Indian Super League 2026-27",
-      "category": "SonyLIV | Sportlink",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029506/1795187845283930_ISL26_NorthEast-United-FC-vs-FC-GOA-_landscape_thumb.jpg",
-      "tvg_id": "",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795318107~acl=/*~id=99915536993707036728083082347874~hmac=a447d47e7e413fc845e20eb1a5f5d8111bd3083be6fd2b94e9c71668d88aaa32",
-      "type": "hls",
-      "mpd_url": "",
-      "clearkey": null
-    },
-    {
-      "name": "1080_.jpeg\" group-title=\"Willow | Sportlink\",ACC Mens Asia Cup Rising Stars 2026 - 6th Match - Bangladesh A vs Afghanistan A",
-      "category": "Uncategorized",
-      "logo": "",
-      "tvg_id": "B0HMCN5NM8",
-      "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/fceyqwjpo4/out/v1/3d62c2d3722b4801b8c7dce78217ff87/cenc.mpd",
-      "type": "mpd",
-      "mpd_url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/fceyqwjpo4/out/v1/3d62c2d3722b4801b8c7dce78217ff87/cenc.mpd",
-      "clearkey": {
-        "keyId": "46bbf645122de0df0cd0b19d4487e2ce",
-        "key": "45e84957268ce56d53ae6d0fadec5964"
-      }
-    },
-    {
-      "name": "1080_.jpeg\" group-title=\"Willow | Sportlink\",International League T20 2026 - 1st Match - Desert Vipers vs Mi Emirates",
-      "category": "Uncategorized",
-      "logo": "",
-      "tvg_id": "B0HS85SP95",
-      "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u7thf3dqfv/out/v1/b6a0f070688648ac849771947211a8fb/cenc.mpd",
-      "type": "mpd",
-      "mpd_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u7thf3dqfv/out/v1/b6a0f070688648ac849771947211a8fb/cenc.mpd",
-      "clearkey": {
-        "keyId": "61403ba13e0032108b86ec3078314ec9",
-        "key": "ec2ac53d37954d51dd4d9eb11ecf322b"
       }
     },
     {
