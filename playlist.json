@@ -1,6 +1,6 @@
 {
   "name": "SDTV LIVE",
-  "total": 338,
+  "total": 342,
   "channels": [
     {
       "name": "Cricbuzz",
@@ -2697,7 +2697,7 @@
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Action/dash/Zee_Action.mpd",
       "clearkey": {
         "keyId": "3b21fb42ab0541caadaeba4dfd552fea",
-        "key": "a4f7cf30a24458a2581df068c62472dd"
+        "key": "6ec8b002f97e6ab504269f4e483ef01c"
       }
     },
     {
@@ -3026,130 +3026,167 @@
       }
     },
     {
-      "name": "1080_.jpeg\" group-title=\"Willow | Sportlink\",ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal",
+      "name": "1st Test - Day 3 - 21 Nov 2026 [ENG] - India Tour of New Zealand 2026",
+      "category": "SonyLIV | Sportlink",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg",
+      "tvg_id": "",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795262278~acl=/*~id=86739637309398389871231811932613~hmac=2450df2e2840ff2f023766d2b5fe4833aba3399e10316a4574bb8cb871af020f",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "1st Test - Day 3 - 21 Nov 2026 [HIN] - India Tour of New Zealand 2026",
+      "category": "SonyLIV | Sportlink",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg",
+      "tvg_id": "",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795262278~acl=/*~id=86739637309398389871231811932613~hmac=2450df2e2840ff2f023766d2b5fe4833aba3399e10316a4574bb8cb871af020f",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "1st Test - Day 3 - 21 Nov 2026 [TAM] - India Tour of New Zealand 2026",
+      "category": "SonyLIV | Sportlink",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg",
+      "tvg_id": "",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795262278~acl=/*~id=86739637309398389871231811932613~hmac=2450df2e2840ff2f023766d2b5fe4833aba3399e10316a4574bb8cb871af020f",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "1st Test - Day 3 - 21 Nov 2026 [TEL] - India Tour of New Zealand 2026",
+      "category": "SonyLIV | Sportlink",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg",
+      "tvg_id": "",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795262278~acl=/*~id=86739637309398389871231811932613~hmac=2450df2e2840ff2f023766d2b5fe4833aba3399e10316a4574bb8cb871af020f",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "1st Test - Day 3 - 21 Nov 2026 [KAN] - India Tour of New Zealand 2026",
+      "category": "SonyLIV | Sportlink",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg",
+      "tvg_id": "",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795262278~acl=/*~id=86739637309398389871231811932613~hmac=2450df2e2840ff2f023766d2b5fe4833aba3399e10316a4574bb8cb871af020f",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "1080_.jpeg\" group-title=\"Willow | Sportlink\",India tour of New Zealand 2026 - 1st Test - New Zealand vs India",
       "category": "Uncategorized",
       "logo": "",
-      "tvg_id": "B0HHN8W74B",
-      "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd",
+      "tvg_id": "B0HM4ZHT1F",
+      "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/roxefgx3by/out/v1/626d780fa151471cab6d83b9fcb731e8/cenc.mpd",
       "type": "mpd",
-      "mpd_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd",
+      "mpd_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/roxefgx3by/out/v1/626d780fa151471cab6d83b9fcb731e8/cenc.mpd",
       "clearkey": {
-        "keyId": "91ffd985da527c7d77ecc801128d11cc",
-        "key": "3bb5d51b2fef3b50c43d0cc12455eaf7"
+        "keyId": "a478f5af8b826d44778571031c84e257",
+        "key": "ceabaa285b51b50a60cf5240715a6f28"
       }
     },
     {
-      "name": "1080_.jpeg\" group-title=\"Willow | Sportlink\",Abu Dhabi T10 League 2026 - Qualifier - Arabian Aces vs UAE Bulls",
-      "category": "Uncategorized",
-      "logo": "",
-      "tvg_id": "B0HS7B18QQ",
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ciluyzixht/out/v1/b3ec24213f4b40be9c5644b6eed1774b/cenc.mpd",
-      "type": "mpd",
-      "mpd_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ciluyzixht/out/v1/b3ec24213f4b40be9c5644b6eed1774b/cenc.mpd",
-      "clearkey": {
-        "keyId": "b523235faf497e1ce0967946ba01a9c3",
-        "key": "1697e8dd99cd9cd940f463f4fdc7385f"
-      }
-    },
-    {
-      "name": "1080_.jpeg\" group-title=\"Willow | Sportlink\",Abu Dhabi T10 League 2026 - Final - Yas Lions vs UAE Bulls",
-      "category": "Uncategorized",
-      "logo": "",
-      "tvg_id": "B0HRTVJ9BL",
-      "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1eszvr6hm3/out/v1/f099e57287244d09aeea990398a83c47/cenc.mpd",
-      "type": "mpd",
-      "mpd_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1eszvr6hm3/out/v1/f099e57287244d09aeea990398a83c47/cenc.mpd",
-      "clearkey": {
-        "keyId": "7e762ae016686583246f1959850eea6e",
-        "key": "7ea4fb4356c76bf242b3189458ecea2e"
-      }
-    },
-    {
-      "name": "1080_.jpeg\" group-title=\"Prime Video | Sportlink\",HIN | Kaun Banega Crorepati",
-      "category": "Uncategorized",
-      "logo": "",
-      "tvg_id": "amzn1.dv.gti.a2e0feb2-14b7-44ad-9293-32a0808bcf3d",
-      "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rd0pbpeax1/out/v1/31715ad8283a4a24baccac1c32606a94/cenc.mpd",
-      "type": "mpd",
-      "mpd_url": "https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rd0pbpeax1/out/v1/31715ad8283a4a24baccac1c32606a94/cenc.mpd",
-      "clearkey": {
-        "keyId": "{\"keys\"",
-        "key": "[{\"kty\":\"oct\",\"kid\":\"up-fzPuvQNamKIWuagDi5g\",\"k\":\"8x42sOTRAu8uQTn4NloXLg\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
-      }
-    },
-    {
-      "name": "1080_.jpeg\" group-title=\"Prime Video | Sportlink\",ENG | India A vs Nepal - 20 Nov 2026",
-      "category": "Uncategorized",
-      "logo": "",
-      "tvg_id": "amzn1.dv.gti.1ceecc52-bc1d-4a35-93fb-a05c97b12e9d",
-      "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xpbyju7ycf/out/v1/01a540649ada43b5a8830cfe656316b6/cenc.mpd",
-      "type": "mpd",
-      "mpd_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xpbyju7ycf/out/v1/01a540649ada43b5a8830cfe656316b6/cenc.mpd",
-      "clearkey": {
-        "keyId": "{\"keys\"",
-        "key": "[{\"kty\":\"oct\",\"kid\":\"W3j2OfG9F_6YWb-Sreip0A\",\"k\":\"AGlMcg8q_bAWAwK9sf8gng\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
-      }
-    },
-    {
-      "name": "1080_.jpeg\" group-title=\"Prime Video | Sportlink\",ENG | Bengaluru FC vs Mumbai City FC - 20 Nov 2026",
-      "category": "Uncategorized",
-      "logo": "",
-      "tvg_id": "amzn1.dv.gti.4d30b889-4c69-452e-863a-f6d74ef5f4ee",
-      "url": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kmwcvkcflz/out/v1/0884f153f8cc4e9bbc07b40ee2f3a120/cenc.mpd",
-      "type": "mpd",
-      "mpd_url": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kmwcvkcflz/out/v1/0884f153f8cc4e9bbc07b40ee2f3a120/cenc.mpd",
-      "clearkey": {
-        "keyId": "{\"keys\"",
-        "key": "[{\"kty\":\"oct\",\"kid\":\"Hd3Yv1R9iWCLkjQKjVZ6NQ\",\"k\":\"Btyx9yZApN4fO2P3UJdyRw\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
-      }
-    },
-    {
-      "name": "1080_.jpeg\" group-title=\"Prime Video | Sportlink\",MAR | Kon Honaar Crorepati",
-      "category": "Uncategorized",
-      "logo": "",
-      "tvg_id": "amzn1.dv.gti.36e7f6ca-8c20-42fb-96dc-e101495ea32d",
-      "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/iwit2uz7wa/out/v1/3d8ca30a40184e4bbbde1547ae6ef710/cenc.mpd",
-      "type": "mpd",
-      "mpd_url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/iwit2uz7wa/out/v1/3d8ca30a40184e4bbbde1547ae6ef710/cenc.mpd",
-      "clearkey": {
-        "keyId": "{\"keys\"",
-        "key": "[{\"kty\":\"oct\",\"kid\":\"1gZIkt9FdgpZuMT4-wQVUA\",\"k\":\"KtezuJuEkSeQ07R9zQUiUg\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
-      }
-    },
-    {
-      "name": "ENG | NBA TV International: Basketcast: Basketcast  S2 Eps. 36",
+      "name": "ENG | 1st Test - Day 3 - 21 Nov 2026",
       "category": "Prime Video | Sportlink",
-      "logo": "https://m.media-amazon.com/images/I/71OAQPUqfXL.jpg",
-      "tvg_id": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
-      "url": "https://ABN7NIVAAAAAAAAMLZR65EAI5T3FS.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/3scrwqe5gd/out/v1/acb74fc290c049139fa54cac4bc6c1b5/cenc.mpd",
+      "logo": "",
+      "tvg_id": "amzn1.dv.gti.0d29e542-258e-4ec6-b4a9-87c5a2700fc9",
+      "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/mebvsdzu7s/out/v1/563c92c11fff4290a160e365f6996c34/cenc.mpd",
       "type": "mpd",
-      "mpd_url": "https://ABN7NIVAAAAAAAAMLZR65EAI5T3FS.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/3scrwqe5gd/out/v1/acb74fc290c049139fa54cac4bc6c1b5/cenc.mpd",
+      "mpd_url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/mebvsdzu7s/out/v1/563c92c11fff4290a160e365f6996c34/cenc.mpd",
+      "clearkey": {
+        "keyId": "{\"keys\"",
+        "key": "[{\"kty\":\"oct\",\"kid\":\"_aejkdY0brMXbQN5_cCU0A\",\"k\":\"HuKF1b7H9oVdUePl9jCtHw\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
+      }
+    },
+    {
+      "name": "1080_.jpeg\" group-title=\"Prime Video | Sportlink\",HIN | 1st Test - Day 3 - 21 Nov 2026 HIN",
+      "category": "Uncategorized",
+      "logo": "",
+      "tvg_id": "amzn1.dv.gti.91cf4547-c57c-4a3d-b934-38be70e453e8",
+      "url": "https://ABN7NIVAAAAAAAAMLZR65EAI5T3FS.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/szeafaauqf/out/v1/6b31170c3b5749928bff04fc71f02b06/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://ABN7NIVAAAAAAAAMLZR65EAI5T3FS.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/szeafaauqf/out/v1/6b31170c3b5749928bff04fc71f02b06/cenc.mpd",
+      "clearkey": {
+        "keyId": "{\"keys\"",
+        "key": "[{\"kty\":\"oct\",\"kid\":\"QkoE-kRk_bnV89Yd30h3ag\",\"k\":\"haXaR9ufV83M26wByYCuzg\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
+      }
+    },
+    {
+      "name": "1080_.jpeg\" group-title=\"Prime Video | Sportlink\",KAN | 1st Test - Day 3 - 21 Nov 2026 KAN",
+      "category": "Uncategorized",
+      "logo": "",
+      "tvg_id": "amzn1.dv.gti.a23c70c2-481d-4a8f-8883-73d37cd1337d",
+      "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ysxbvttmj0/out/v1/9186803a89be48589f0fd7156bb35a03/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ysxbvttmj0/out/v1/9186803a89be48589f0fd7156bb35a03/cenc.mpd",
+      "clearkey": {
+        "keyId": "{\"keys\"",
+        "key": "[{\"kty\":\"oct\",\"kid\":\"GlMxNhynf9b-OcxVN_lC9w\",\"k\":\"IneK054BZ_AvjGFU6itR2g\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
+      }
+    },
+    {
+      "name": "1080_.jpeg\" group-title=\"Prime Video | Sportlink\",TAM | 1st Test - Day 3 - 21 Nov 2026 TAM",
+      "category": "Uncategorized",
+      "logo": "",
+      "tvg_id": "amzn1.dv.gti.af24943f-b7b9-4ba7-a78c-718dc7557720",
+      "url": "https://ABN7NIVAAAAAAAAMLZR65EAI5T3FS.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/ddrozliwae/out/v1/afc46a48009f43d5978740015f0eabc3/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://ABN7NIVAAAAAAAAMLZR65EAI5T3FS.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/ddrozliwae/out/v1/afc46a48009f43d5978740015f0eabc3/cenc.mpd",
+      "clearkey": {
+        "keyId": "{\"keys\"",
+        "key": "[{\"kty\":\"oct\",\"kid\":\"2c82sN30FyBFDCXrC3-jfA\",\"k\":\"uKpzTGXdHvm2ZQdI47lBcg\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
+      }
+    },
+    {
+      "name": "1080_.jpeg\" group-title=\"Prime Video | Sportlink\",TEL | 1st Test - Day 3 - 21 Nov 2026 TEL",
+      "category": "Uncategorized",
+      "logo": "",
+      "tvg_id": "amzn1.dv.gti.ed0124c9-5436-4495-b1f3-4d9e5e2e3f86",
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/k86nonyfjq/out/v1/d4bf12a8341c4ef9ad8eb834fcd90229/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/k86nonyfjq/out/v1/d4bf12a8341c4ef9ad8eb834fcd90229/cenc.mpd",
+      "clearkey": {
+        "keyId": "{\"keys\"",
+        "key": "[{\"kty\":\"oct\",\"kid\":\"rF2IUcUp3UE6x-6UgUxp4Q\",\"k\":\"tpiW_F8iyIWqbblG5ejMQw\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
+      }
+    },
+    {
+      "name": "ENG | NBA TV International: Coaches corner: Coaches Corner",
+      "category": "Prime Video | Sportlink",
+      "logo": "https://m.media-amazon.com/images/I/51XRMvaGUdL.jpg",
+      "tvg_id": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
+      "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/3scrwqe5gd/out/v1/acb74fc290c049139fa54cac4bc6c1b5/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/3scrwqe5gd/out/v1/acb74fc290c049139fa54cac4bc6c1b5/cenc.mpd",
       "clearkey": {
         "keyId": "{\"keys\"",
         "key": "[{\"kty\":\"oct\",\"kid\":\"Da-mcst2q5P9xtPY18Hqog\",\"k\":\"eLKrJNiNns2yRjFz38GUXw\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
       }
     },
     {
-      "name": "ENG | FanCode 2: Afghanistan tour of Zimbabwe 2024-25",
+      "name": "ENG | FanCode 2: Stay Tuned Slate",
       "category": "Prime Video | Sportlink",
-      "logo": "https://m.media-amazon.com/images/I/B1XS9ojtynL.jpg",
+      "logo": "https://m.media-amazon.com/images/I/A1ilv50jNEL.jpg",
       "tvg_id": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
-      "url": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/twcny8iyym/out/v1/83184682abbf4c7fbc78b64266100dbd/cenc.mpd",
+      "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/twcny8iyym/out/v1/83184682abbf4c7fbc78b64266100dbd/cenc.mpd",
       "type": "mpd",
-      "mpd_url": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/twcny8iyym/out/v1/83184682abbf4c7fbc78b64266100dbd/cenc.mpd",
+      "mpd_url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/twcny8iyym/out/v1/83184682abbf4c7fbc78b64266100dbd/cenc.mpd",
       "clearkey": {
         "keyId": "{\"keys\"",
         "key": "[{\"kty\":\"oct\",\"kid\":\"GZSx3339LoqNe5vz-5AChQ\",\"k\":\"IqFESz2hjhORkWZbPWUoNQ\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
       }
     },
     {
-      "name": "ENG | FanCode 1: Afghanistan tour of Zimbabwe 2024-25",
+      "name": "ENG | FanCode 1: Athletic Club vs. RCD Espanyol",
       "category": "Prime Video | Sportlink",
-      "logo": "https://m.media-amazon.com/images/I/B1XS9ojtynL.jpg",
+      "logo": "https://m.media-amazon.com/images/I/810swb0Qn9L.jpg",
       "tvg_id": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
-      "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/a99uhtrbys/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd",
+      "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/a99uhtrbys/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd",
       "type": "mpd",
-      "mpd_url": "https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/a99uhtrbys/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd",
+      "mpd_url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/a99uhtrbys/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd",
       "clearkey": {
         "keyId": "{\"keys\"",
         "key": "[{\"kty\":\"oct\",\"kid\":\"gt_KI46MS0MKMmnbcZZduQ\",\"k\":\"oAsoyvSsYo53pVPUQMDdyg\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
