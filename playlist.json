@@ -1,24 +1,44 @@
 {
   "name": "SDTV LIVE",
-  "total": 342,
+  "total": 335,
   "channels": [
     {
-      "name": "Cricbuzz",
+      "name": "Sky sports cricket em",
       "category": "Sports",
-      "logo": "https://static.cricbuzz.com/a/img/v1/i1/c379130/match-image.jpg?d=high&p=det",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcL1ZfAiMcm7NsWybZ1KJo9ilUUtRfs4S9uMLTklknN2ubWqU4UW2cuU4&s=10",
       "tvg_id": "",
-      "url": "https://cricbuzz.zibobdixserver.top/CRICBUZZ/index.m3u8",
-      "type": "hls",
+      "url": "https://emb.tvp4.online/p2p/?id=268983",
+      "type": "unknown",
       "mpd_url": "",
       "clearkey": null
     },
     {
-      "name": "Fox sports 501",
+      "name": "TNT sports 1 em",
       "category": "Sports",
-      "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s160-c-k-c0x00ffffff-no-rj",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKGmRsKxQuo8Foab57VKpHh6x9JoYdjpsmALubJTHEy3B3ooLesKQLpac&s=10",
       "tvg_id": "",
-      "url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19146/index.m3u8",
-      "type": "hls",
+      "url": "https://emb.tvp4.online/p2p/?id=269484",
+      "type": "unknown",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "Willow sports  em",
+      "category": "Sports",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9D7GaAuZA0gqwPFKNdhdkKJaoRJz4qs51KO55bzhSCb1OYTgy2x8reoE&s=10",
+      "tvg_id": "",
+      "url": "https://emb.tvp4.online/p2p/?id=271880",
+      "type": "unknown",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "sky sports 4 NZ em",
+      "category": "Sports",
+      "logo": "https://match-images.icdb.tv/87cad4ae601f884b43d06310aba34a9f.jpg",
+      "tvg_id": "",
+      "url": "https://emb.tvp4.online/p2p/?id=270465",
+      "type": "unknown",
       "mpd_url": "",
       "clearkey": null
     },
@@ -2436,8 +2456,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/And_Pictures_HD/dash/And_Pictures_HD.mpd",
       "clearkey": {
-        "keyId": "21be4e699153429f971666d55faa693c",
-        "key": "d0e72c8c1bc0b687c71ad894387ac4e5"
+        "keyId": "96ef79d6816e4dc7aa6fd7e51a275129",
+        "key": "d8d9d25213c5891b4f10cdd95e590720"
       }
     },
     {
@@ -2449,8 +2469,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/And_Tv_HD/dash/And_Tv_HD.mpd",
       "clearkey": {
-        "keyId": "61fb19f96d7d4bd28f56292ff387a357",
-        "key": "f4112924a8287a116805e99b8fd094dc"
+        "keyId": "029eb82526054ce487d76f761d6ea2ad",
+        "key": "4c0bef30fa0a079fb77ef119873d7aed"
       }
     },
     {
@@ -2515,8 +2535,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Big_Magic/dash/Big_Magic.mpd",
       "clearkey": {
-        "keyId": "14aa2acedaa040e18c7d2b0be2bb172d",
-        "key": "2d791bb91cac0e11ce7fdc3f946ce624"
+        "keyId": "bdedc607891144fda5a8c694d6a2cc82",
+        "key": "e2b6b06e5c4ffa2010e6767ad5749c2f"
       }
     },
     {
@@ -2644,8 +2664,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd",
       "clearkey": {
-        "keyId": "5506e2c3090f4ce7a5727187136e14b0",
-        "key": "15a25dc0da5dac2de6c937ff7fd4cee7"
+        "keyId": "d5859726f4804398b37aa6eb9d571a4f",
+        "key": "11c43967054ad1765d919f854889912f"
       }
     },
     {
@@ -2657,8 +2677,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd",
       "clearkey": {
-        "keyId": "6538940da8e443a6995112f7d022916e",
-        "key": "af38e904c956afd9d77a57e62c01b819"
+        "keyId": "1abca5c4c9594494bf8f29207b95c1cc",
+        "key": "2f3d82a04c1c0e12abcded756397af59"
       }
     },
     {
@@ -2670,8 +2690,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Wion/dash/Wion.mpd",
       "clearkey": {
-        "keyId": "cc062e523ff0480d85cc70bd3051f2e2",
-        "key": "6f0bb12c00c563e15ee5ddac97676a8d"
+        "keyId": "1e5d4b6b132247d9a18b793840bb710f",
+        "key": "0fe03819eaf81867c675b796e3df16c0"
       }
     },
     {
@@ -2683,8 +2703,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Twenty_Four_Ghanta/dash/Zee_Twenty_Four_Ghanta.mpd",
       "clearkey": {
-        "keyId": "5286ad4b075e439699be73bce15ac78d",
-        "key": "d44270c386ef467fc98fe74baa53031f"
+        "keyId": "775b23eb917140dc9f399edf359d1d97",
+        "key": "1c1dad6f8f74378efb01ea09e290b33d"
       }
     },
     {
@@ -2697,7 +2717,7 @@
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Action/dash/Zee_Action.mpd",
       "clearkey": {
         "keyId": "3b21fb42ab0541caadaeba4dfd552fea",
-        "key": "6ec8b002f97e6ab504269f4e483ef01c"
+        "key": "a4f7cf30a24458a2581df068c62472dd"
       }
     },
     {
@@ -2709,8 +2729,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Anmol/dash/Zee_Anmol.mpd",
       "clearkey": {
-        "keyId": "875515a3587d4a939534f15357b72b66",
-        "key": "9eef5c30e540e501b17696874423c0a7"
+        "keyId": "46b44e8e1eb1458cb297d79c5a53756b",
+        "key": "cb0aaa2124be985f3bc43755036d2627"
       }
     },
     {
@@ -2722,8 +2742,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Anmol_Cinema/dash/Zee_Anmol_Cinema.mpd",
       "clearkey": {
-        "keyId": "1ce12a212daa4e208a3282e736a0af33",
-        "key": "ec4470b30adbbe532ca623d50803902a"
+        "keyId": "975c465925a84903b9984955148463fe",
+        "key": "4523b62cfbd61eff8bac53480cc2aecf"
       }
     },
     {
@@ -2735,8 +2755,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Bangla_HD/dash/Zee_Bangla_HD.mpd",
       "clearkey": {
-        "keyId": "c71e224ffd56468e83adfe4b77a303be",
-        "key": "690a39933cfd21aa2e3b85839bd24acb"
+        "keyId": "b12eb3a788b149209336e8f65dd6a7a4",
+        "key": "4d782b1ad047bd9e3aee787587560493"
       }
     },
     {
@@ -2748,8 +2768,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Bangla_Cinema/dash/Zee_Bangla_Cinema.mpd",
       "clearkey": {
-        "keyId": "78dfbd29f8e44084b052fcf8df01116a",
-        "key": "c2fecf1f3cd83b73694b8a14a95ca618"
+        "keyId": "fbbd61ec58d94b5a814d596c387c9a0e",
+        "key": "fc5d932d2b50046394e6d4078f1a4dc2"
       }
     },
     {
@@ -2761,8 +2781,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Biskope/dash/Zee_Biskope.mpd",
       "clearkey": {
-        "keyId": "5067c98ac1374b26aed385459f034b3e",
-        "key": "81ee835e4f2ffec19d0fa836ff538208"
+        "keyId": "534264fa4dd141a3a8cec3f8fbe1df0e",
+        "key": "c0237881b82a909e7430e45e601f6d53"
       }
     },
     {
@@ -2774,8 +2794,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Bollywood/dash/Zee_Bollywood.mpd",
       "clearkey": {
-        "keyId": "5d46dc40f2cd4cc4bcd78f8e48217b0a",
-        "key": "dbe71178f9fdd0711aaa7654b7e8a540"
+        "keyId": "6d0871f9ec6c4c308f45aa7c08af456c",
+        "key": "ce691c1a653864c077d57fb46577782d"
       }
     },
     {
@@ -2787,8 +2807,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Cinema_HD/dash/Zee_Cinema_HD.mpd",
       "clearkey": {
-        "keyId": "9bee6c86136c4ec9b6881e4b140db6d0",
-        "key": "0ff3a16d06b85a8c4c46da7e8ad1d435"
+        "keyId": "5f42c4899b6743419965fb5bc74e2f0a",
+        "key": "0aa2e9800bfafd5e856674798ba6f546"
       }
     },
     {
@@ -2800,8 +2820,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Cinemalu_HD/dash/Zee_Cinemalu_HD.mpd",
       "clearkey": {
-        "keyId": "37babb30db7b4d33a173da8c2ea76412",
-        "key": "01e9bea6f71af565d0a91165a4928dda"
+        "keyId": "dc375413f46c4de6a43984a67824036e",
+        "key": "b4ac93c555de161a2f088182e7af57c3"
       }
     },
     {
@@ -2813,8 +2833,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Classic/dash/Zee_Classic.mpd",
       "clearkey": {
-        "keyId": "b08a7ce6d02e4bc8b947d95d4b08c6e9",
-        "key": "aa4fb31df6c30311839661d7ba93c568"
+        "keyId": "0824b17cbed7495580932f574bcf31ae",
+        "key": "7b5434990c0179a782bdf62e2695c714"
       }
     },
     {
@@ -2826,8 +2846,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Kannada_HD/dash/Zee_Kannada_HD.mpd",
       "clearkey": {
-        "keyId": "c449345dadd641598dc36b450954c091",
-        "key": "77c1fa065227e4645acef8f6ac3c9654"
+        "keyId": "85c718c301884cc3a61d04ac9438b5f9",
+        "key": "540dcc12d29f2680821af26caa20a74b"
       }
     },
     {
@@ -2839,8 +2859,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Keralam_HD/dash/Zee_Keralam_HD.mpd",
       "clearkey": {
-        "keyId": "3027f08e1715448c9f4ce0993d0b65b6",
-        "key": "f848ddffa0b3dd97f62365787150d79b"
+        "keyId": "41d61fc5943746268da507408de7a549",
+        "key": "f98025fb3afd2e46263e0c8267421a5e"
       }
     },
     {
@@ -2852,8 +2872,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Marathi_HD/dash/Zee_Marathi_HD.mpd",
       "clearkey": {
-        "keyId": "65158e35a9ba48ceaff0c1f1c8029c6b",
-        "key": "c562c4527da8fc90742f004486382e8b"
+        "keyId": "98e22e6075eb4a768ddc6144c7f5b10e",
+        "key": "ed1b29cf505ec7a7025d7ddb96e51fa0"
       }
     },
     {
@@ -2865,8 +2885,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_News/dash/Zee_News.mpd",
       "clearkey": {
-        "keyId": "daa5997664bf42508efd9aa53f3183e1",
-        "key": "112198e3e97d31f242aa50bb1c174a3b"
+        "keyId": "42015c54327f4a888abc9b39a2a09189",
+        "key": "37a18da2ab7227bfa01b54e372c63438"
       }
     },
     {
@@ -2891,8 +2911,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_PUNJABI/dash/ZEE_PUNJABI.mpd",
       "clearkey": {
-        "keyId": "1d09459af2fd4ee0bc117ac672e42e61",
-        "key": "e0b9910b989361d16811bb08f1fbe009"
+        "keyId": "af836b79fced4f5e9f8555127e2b4748",
+        "key": "53b3b293b52ca40552d4543f8b7ea38b"
       }
     },
     {
@@ -2904,8 +2924,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Sarthak/dash/Zee_Sarthak.mpd",
       "clearkey": {
-        "keyId": "61499aaad0d2488bb5de99d8703d6c8e",
-        "key": "ace99632f6dcfccd39daa038125215a5"
+        "keyId": "06573218d7234553a6757e6ce313d2a5",
+        "key": "e8aa6ebc0e0946ac26b7a41fec42ef05"
       }
     },
     {
@@ -2917,8 +2937,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Talkies_HD/dash/Zee_Talkies_HD.mpd",
       "clearkey": {
-        "keyId": "0dbc221f09d548cca4dd32fa6a6b6a99",
-        "key": "84e358a2b57ca71a526b47df893e15c7"
+        "keyId": "af8403ee7565428a832fc55da38fcdf0",
+        "key": "f66800d6a6302d5d7770d1a788a952cb"
       }
     },
     {
@@ -2930,8 +2950,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_Tamil_HD/dash/ZEE_Tamil_HD.mpd",
       "clearkey": {
-        "keyId": "055ce36cb16a4e0d94773227bf3985f3",
-        "key": "8648723b49dcf344110e162299261141"
+        "keyId": "b6004b163240482085e749c07604b9d0",
+        "key": "bab06303ca3cc9f730daecaf1924e7c2"
       }
     },
     {
@@ -2943,8 +2963,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_Telugu_HD/dash/ZEE_Telugu_HD.mpd",
       "clearkey": {
-        "keyId": "8f3a8b3878934c6896e82ea63f4f5736",
-        "key": "f51c2f0e9c1f8f5abd746233517418b8"
+        "keyId": "24a89603570e454e8ae8d7fab6ea9fc8",
+        "key": "2d18e95aa44f297ba59f37cbdc13d4cb"
       }
     },
     {
@@ -2956,8 +2976,8 @@
       "type": "mpd",
       "mpd_url": "httpS://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Thirai_SD/dash/Zee_Thirai_SD.mpd",
       "clearkey": {
-        "keyId": "fb22f08fb57f4ff695b0f7a87bef5229",
-        "key": "b0e392c3d32ca2aea89ccdf6d8169fc6"
+        "keyId": "ccbc8a02fbc8499ebef38a70aeaa5fdc",
+        "key": "505e874752e8c3db835a4f7b4c9c847c"
       }
     },
     {
@@ -2969,8 +2989,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_TV_HD/dash/ZEE_TV_HD.mpd",
       "clearkey": {
-        "keyId": "ba3bf63b6aa049f98c4e0c50ea30faa5",
-        "key": "96a8dc44bd05393bea84cfc73bb5ca8e"
+        "keyId": "56c440210aa94103acbbf668dd26e251",
+        "key": "7d69aea40ea0f5ed6c14de4dee9a7168"
       }
     },
     {
@@ -2982,8 +3002,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Yuva/dash/Zee_Yuva.mpd",
       "clearkey": {
-        "keyId": "63a1f637974c431ea4e3d31813764f22",
-        "key": "537c4194b18e61bedb13205c21c710fa"
+        "keyId": "09c5a56d33a444dda166c60e47103c98",
+        "key": "91872a9e31da6f681fe01f9eddc5ed7f"
       }
     },
     {
@@ -2995,8 +3015,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Zest_SD/dash/Zee_Zest_SD.mpd",
       "clearkey": {
-        "keyId": "3d1ddc1aec484a84a7fcc0989554eaa9",
-        "key": "0f5554c6014dc359d550df359ebcf751"
+        "keyId": "ffa2f9e64ca542f9a13f6ebc11292468",
+        "key": "ac0b546c754884618e5b2c2c986e4735"
       }
     },
     {
@@ -3008,8 +3028,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zing/dash/Zing.mpd",
       "clearkey": {
-        "keyId": "6ab9c469b4e0495086592d7881691d5d",
-        "key": "922bf08bd538c92cd8cc5bd4d1f9a30d"
+        "keyId": "bbb2cec5234a4f0483d89f8747f42d88",
+        "key": "cdda487a9b3d4588c33715f09b6bef35"
       }
     },
     {
@@ -3026,167 +3046,62 @@
       }
     },
     {
-      "name": "1st Test - Day 3 - 21 Nov 2026 [ENG] - India Tour of New Zealand 2026",
+      "name": "Sri Lanka A vs Hong Kong, China - 21 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026",
       "category": "SonyLIV | Sportlink",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg",
       "tvg_id": "",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795262278~acl=/*~id=86739637309398389871231811932613~hmac=2450df2e2840ff2f023766d2b5fe4833aba3399e10316a4574bb8cb871af020f",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795289014~acl=/*~id=86549809341013771316011584563358~hmac=9c2e117497c44c0f502267e01dfd2b3dd759eaf1473224f54d8d5410bfab0e4b",
       "type": "hls",
       "mpd_url": "",
       "clearkey": null
     },
     {
-      "name": "1st Test - Day 3 - 21 Nov 2026 [HIN] - India Tour of New Zealand 2026",
-      "category": "SonyLIV | Sportlink",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg",
-      "tvg_id": "",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795262278~acl=/*~id=86739637309398389871231811932613~hmac=2450df2e2840ff2f023766d2b5fe4833aba3399e10316a4574bb8cb871af020f",
-      "type": "hls",
-      "mpd_url": "",
-      "clearkey": null
-    },
-    {
-      "name": "1st Test - Day 3 - 21 Nov 2026 [TAM] - India Tour of New Zealand 2026",
-      "category": "SonyLIV | Sportlink",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg",
-      "tvg_id": "",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795262278~acl=/*~id=86739637309398389871231811932613~hmac=2450df2e2840ff2f023766d2b5fe4833aba3399e10316a4574bb8cb871af020f",
-      "type": "hls",
-      "mpd_url": "",
-      "clearkey": null
-    },
-    {
-      "name": "1st Test - Day 3 - 21 Nov 2026 [TEL] - India Tour of New Zealand 2026",
-      "category": "SonyLIV | Sportlink",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg",
-      "tvg_id": "",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795262278~acl=/*~id=86739637309398389871231811932613~hmac=2450df2e2840ff2f023766d2b5fe4833aba3399e10316a4574bb8cb871af020f",
-      "type": "hls",
-      "mpd_url": "",
-      "clearkey": null
-    },
-    {
-      "name": "1st Test - Day 3 - 21 Nov 2026 [KAN] - India Tour of New Zealand 2026",
-      "category": "SonyLIV | Sportlink",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg",
-      "tvg_id": "",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795262278~acl=/*~id=86739637309398389871231811932613~hmac=2450df2e2840ff2f023766d2b5fe4833aba3399e10316a4574bb8cb871af020f",
-      "type": "hls",
-      "mpd_url": "",
-      "clearkey": null
-    },
-    {
-      "name": "1080_.jpeg\" group-title=\"Willow | Sportlink\",India tour of New Zealand 2026 - 1st Test - New Zealand vs India",
+      "name": "1080_.jpeg\" group-title=\"Willow | Sportlink\",Womens Big Bash League 2026 - 30th Match - Sydney Sixers Women vs Perth Scorchers Women",
       "category": "Uncategorized",
       "logo": "",
-      "tvg_id": "B0HM4ZHT1F",
-      "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/roxefgx3by/out/v1/626d780fa151471cab6d83b9fcb731e8/cenc.mpd",
+      "tvg_id": "B0HNMFJNRM",
+      "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xzhvi2grfc/out/v1/0c7ba1d749ea465c8caac7e84fc34891/cenc.mpd",
       "type": "mpd",
-      "mpd_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/roxefgx3by/out/v1/626d780fa151471cab6d83b9fcb731e8/cenc.mpd",
+      "mpd_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xzhvi2grfc/out/v1/0c7ba1d749ea465c8caac7e84fc34891/cenc.mpd",
       "clearkey": {
-        "keyId": "a478f5af8b826d44778571031c84e257",
-        "key": "ceabaa285b51b50a60cf5240715a6f28"
+        "keyId": "6012ce4af4cad526b730a7dc830bb35d",
+        "key": "80280163cc6aad3985a22ebf2f082e76"
       }
     },
     {
-      "name": "ENG | 1st Test - Day 3 - 21 Nov 2026",
+      "name": "ENG | NBA TV International: The Association",
       "category": "Prime Video | Sportlink",
-      "logo": "",
-      "tvg_id": "amzn1.dv.gti.0d29e542-258e-4ec6-b4a9-87c5a2700fc9",
-      "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/mebvsdzu7s/out/v1/563c92c11fff4290a160e365f6996c34/cenc.mpd",
-      "type": "mpd",
-      "mpd_url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/mebvsdzu7s/out/v1/563c92c11fff4290a160e365f6996c34/cenc.mpd",
-      "clearkey": {
-        "keyId": "{\"keys\"",
-        "key": "[{\"kty\":\"oct\",\"kid\":\"_aejkdY0brMXbQN5_cCU0A\",\"k\":\"HuKF1b7H9oVdUePl9jCtHw\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
-      }
-    },
-    {
-      "name": "1080_.jpeg\" group-title=\"Prime Video | Sportlink\",HIN | 1st Test - Day 3 - 21 Nov 2026 HIN",
-      "category": "Uncategorized",
-      "logo": "",
-      "tvg_id": "amzn1.dv.gti.91cf4547-c57c-4a3d-b934-38be70e453e8",
-      "url": "https://ABN7NIVAAAAAAAAMLZR65EAI5T3FS.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/szeafaauqf/out/v1/6b31170c3b5749928bff04fc71f02b06/cenc.mpd",
-      "type": "mpd",
-      "mpd_url": "https://ABN7NIVAAAAAAAAMLZR65EAI5T3FS.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/szeafaauqf/out/v1/6b31170c3b5749928bff04fc71f02b06/cenc.mpd",
-      "clearkey": {
-        "keyId": "{\"keys\"",
-        "key": "[{\"kty\":\"oct\",\"kid\":\"QkoE-kRk_bnV89Yd30h3ag\",\"k\":\"haXaR9ufV83M26wByYCuzg\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
-      }
-    },
-    {
-      "name": "1080_.jpeg\" group-title=\"Prime Video | Sportlink\",KAN | 1st Test - Day 3 - 21 Nov 2026 KAN",
-      "category": "Uncategorized",
-      "logo": "",
-      "tvg_id": "amzn1.dv.gti.a23c70c2-481d-4a8f-8883-73d37cd1337d",
-      "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ysxbvttmj0/out/v1/9186803a89be48589f0fd7156bb35a03/cenc.mpd",
-      "type": "mpd",
-      "mpd_url": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ysxbvttmj0/out/v1/9186803a89be48589f0fd7156bb35a03/cenc.mpd",
-      "clearkey": {
-        "keyId": "{\"keys\"",
-        "key": "[{\"kty\":\"oct\",\"kid\":\"GlMxNhynf9b-OcxVN_lC9w\",\"k\":\"IneK054BZ_AvjGFU6itR2g\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
-      }
-    },
-    {
-      "name": "1080_.jpeg\" group-title=\"Prime Video | Sportlink\",TAM | 1st Test - Day 3 - 21 Nov 2026 TAM",
-      "category": "Uncategorized",
-      "logo": "",
-      "tvg_id": "amzn1.dv.gti.af24943f-b7b9-4ba7-a78c-718dc7557720",
-      "url": "https://ABN7NIVAAAAAAAAMLZR65EAI5T3FS.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/ddrozliwae/out/v1/afc46a48009f43d5978740015f0eabc3/cenc.mpd",
-      "type": "mpd",
-      "mpd_url": "https://ABN7NIVAAAAAAAAMLZR65EAI5T3FS.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/ddrozliwae/out/v1/afc46a48009f43d5978740015f0eabc3/cenc.mpd",
-      "clearkey": {
-        "keyId": "{\"keys\"",
-        "key": "[{\"kty\":\"oct\",\"kid\":\"2c82sN30FyBFDCXrC3-jfA\",\"k\":\"uKpzTGXdHvm2ZQdI47lBcg\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
-      }
-    },
-    {
-      "name": "1080_.jpeg\" group-title=\"Prime Video | Sportlink\",TEL | 1st Test - Day 3 - 21 Nov 2026 TEL",
-      "category": "Uncategorized",
-      "logo": "",
-      "tvg_id": "amzn1.dv.gti.ed0124c9-5436-4495-b1f3-4d9e5e2e3f86",
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/k86nonyfjq/out/v1/d4bf12a8341c4ef9ad8eb834fcd90229/cenc.mpd",
-      "type": "mpd",
-      "mpd_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/k86nonyfjq/out/v1/d4bf12a8341c4ef9ad8eb834fcd90229/cenc.mpd",
-      "clearkey": {
-        "keyId": "{\"keys\"",
-        "key": "[{\"kty\":\"oct\",\"kid\":\"rF2IUcUp3UE6x-6UgUxp4Q\",\"k\":\"tpiW_F8iyIWqbblG5ejMQw\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
-      }
-    },
-    {
-      "name": "ENG | NBA TV International: Coaches corner: Coaches Corner",
-      "category": "Prime Video | Sportlink",
-      "logo": "https://m.media-amazon.com/images/I/51XRMvaGUdL.jpg",
+      "logo": "https://m.media-amazon.com/images/I/51UBiSHAxaL.jpg",
       "tvg_id": "amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8",
-      "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/3scrwqe5gd/out/v1/acb74fc290c049139fa54cac4bc6c1b5/cenc.mpd",
+      "url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/kx7abkoz8y/out/v1/cb43624f6eb9424c9bfdd60ceea06549/cenc.mpd",
       "type": "mpd",
-      "mpd_url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/3scrwqe5gd/out/v1/acb74fc290c049139fa54cac4bc6c1b5/cenc.mpd",
+      "mpd_url": "https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/kx7abkoz8y/out/v1/cb43624f6eb9424c9bfdd60ceea06549/cenc.mpd",
       "clearkey": {
         "keyId": "{\"keys\"",
         "key": "[{\"kty\":\"oct\",\"kid\":\"Da-mcst2q5P9xtPY18Hqog\",\"k\":\"eLKrJNiNns2yRjFz38GUXw\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
       }
     },
     {
-      "name": "ENG | FanCode 2: Stay Tuned Slate",
+      "name": "ENG | FanCode 2: Las Vegas Grand Prix, Qualifying",
       "category": "Prime Video | Sportlink",
-      "logo": "https://m.media-amazon.com/images/I/A1ilv50jNEL.jpg",
+      "logo": "https://m.media-amazon.com/images/I/71DkpjtJqAL.jpg",
       "tvg_id": "amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588",
-      "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/twcny8iyym/out/v1/83184682abbf4c7fbc78b64266100dbd/cenc.mpd",
+      "url": "https://a38live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
       "type": "mpd",
-      "mpd_url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/twcny8iyym/out/v1/83184682abbf4c7fbc78b64266100dbd/cenc.mpd",
+      "mpd_url": "https://a38live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
       "clearkey": {
         "keyId": "{\"keys\"",
         "key": "[{\"kty\":\"oct\",\"kid\":\"GZSx3339LoqNe5vz-5AChQ\",\"k\":\"IqFESz2hjhORkWZbPWUoNQ\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
       }
     },
     {
-      "name": "ENG | FanCode 1: Athletic Club vs. RCD Espanyol",
+      "name": "ENG | FanCode 1: Best of Carabao Cup 2024-25",
       "category": "Prime Video | Sportlink",
-      "logo": "https://m.media-amazon.com/images/I/810swb0Qn9L.jpg",
+      "logo": "https://m.media-amazon.com/images/I/B1WRzstncDL.jpg",
       "tvg_id": "amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c",
-      "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/a99uhtrbys/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd",
+      "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
       "type": "mpd",
-      "mpd_url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/a99uhtrbys/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd",
+      "mpd_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
       "clearkey": {
         "keyId": "{\"keys\"",
         "key": "[{\"kty\":\"oct\",\"kid\":\"gt_KI46MS0MKMmnbcZZduQ\",\"k\":\"oAsoyvSsYo53pVPUQMDdyg\"},{\"kty\":\"oct\",\"kid\":\"t3DVtLtrWU2vmFhFqumqXw\",\"k\":\"sMtG0tMc8ES8c9tx6YZfbw\"}]}"
