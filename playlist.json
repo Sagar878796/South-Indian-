@@ -1,6 +1,6 @@
 {
   "name": "SDTV LIVE",
-  "total": 329,
+  "total": 335,
   "channels": [
     {
       "name": "MBC SPORTS",
@@ -2625,7 +2625,7 @@
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd",
       "clearkey": {
         "keyId": "d5859726f4804398b37aa6eb9d571a4f",
-        "key": "11c43967054ad1765d919f854889912f"
+        "key": "727ea1dd645f9793432567a7fc5bbd8e"
       }
     },
     {
@@ -2963,7 +2963,7 @@
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Yuva/dash/Zee_Yuva.mpd",
       "clearkey": {
         "keyId": "09c5a56d33a444dda166c60e47103c98",
-        "key": "3c83365c7b8ccce7cd500c7ce2bb36ca"
+        "key": "91872a9e31da6f681fe01f9eddc5ed7f"
       }
     },
     {
@@ -3003,6 +3003,69 @@
       "clearkey": {
         "keyId": "07b6a48d3a094539af45382c1b748bd3",
         "key": "326ce2fd8f8cdae580c9776af2e702ec"
+      }
+    },
+    {
+      "name": "1st Test - Day 4 - 22 Nov 2026 [ENG] - India Tour of New Zealand 2026",
+      "category": "SonyLIV | Sportlink",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086806204996_NZvsIND_1st_Test_Day4_landscape_thumb.jpg",
+      "tvg_id": "",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795353337~acl=/*~id=16039338402084112703913862469231~hmac=04ff665a9fa8c42abe3f1ea445909b22350b6648bf3fab3cc3d944c516f836b7",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "1st Test - Day 4 - 22 Nov 2026 [HIN] - India Tour of New Zealand 2026",
+      "category": "SonyLIV | Sportlink",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086806204996_NZvsIND_1st_Test_Day4_landscape_thumb.jpg",
+      "tvg_id": "",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795353337~acl=/*~id=16039338402084112703913862469231~hmac=04ff665a9fa8c42abe3f1ea445909b22350b6648bf3fab3cc3d944c516f836b7",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "1st Test - Day 4 - 22 Nov 2026 [TAM] - India Tour of New Zealand 2026",
+      "category": "SonyLIV | Sportlink",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086806204996_NZvsIND_1st_Test_Day4_landscape_thumb.jpg",
+      "tvg_id": "",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795353337~acl=/*~id=16039338402084112703913862469231~hmac=04ff665a9fa8c42abe3f1ea445909b22350b6648bf3fab3cc3d944c516f836b7",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "1st Test - Day 4 - 22 Nov 2026 [TEL] - India Tour of New Zealand 2026",
+      "category": "SonyLIV | Sportlink",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086806204996_NZvsIND_1st_Test_Day4_landscape_thumb.jpg",
+      "tvg_id": "",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795353337~acl=/*~id=16039338402084112703913862469231~hmac=04ff665a9fa8c42abe3f1ea445909b22350b6648bf3fab3cc3d944c516f836b7",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "1st Test - Day 4 - 22 Nov 2026 [KAN] - India Tour of New Zealand 2026",
+      "category": "SonyLIV | Sportlink",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086806204996_NZvsIND_1st_Test_Day4_landscape_thumb.jpg",
+      "tvg_id": "",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795353337~acl=/*~id=16039338402084112703913862469231~hmac=04ff665a9fa8c42abe3f1ea445909b22350b6648bf3fab3cc3d944c516f836b7",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "1080_.jpeg\" group-title=\"Willow | Sportlink\",India tour of New Zealand 2026 - 1st Test - New Zealand vs India",
+      "category": "Uncategorized",
+      "logo": "",
+      "tvg_id": "B0HM4ZHT1F",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fkipghexfw/out/v1/b9c7bdeeb3324a67829355fbadde5f64/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fkipghexfw/out/v1/b9c7bdeeb3324a67829355fbadde5f64/cenc.mpd",
+      "clearkey": {
+        "keyId": "9a79865ad099bcc92fc555a1014310a6",
+        "key": "0f79fed08b0fa0db9c08989d40f7ba73"
       }
     },
     {
