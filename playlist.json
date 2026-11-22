@@ -1,6 +1,6 @@
 {
   "name": "SDTV LIVE",
-  "total": 359,
+  "total": 358,
   "channels": [
     {
       "name": "CBS SPORTS",
@@ -3302,79 +3302,66 @@
       }
     },
     {
-      "name": "India A vs Pakistan Shaheens - 22 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026",
+      "name": "1st Test - Day 5 - 23 Nov 2026 [ENG] - India Tour of New Zealand 2026",
       "category": "SonyLIV | Sportlink",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg",
       "tvg_id": "",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795408703~acl=/*~id=87137822640147485118068349416687~hmac=9b77e8533e810a9b2cffe64e1a190c334eafd42f731261e1c8f8a1e67d841836",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795428140~acl=/*~id=99297165139939687625709192096885~hmac=95df7d25e4538e25923866a4f7498e3c014b90132a8323eabdd3efb1aa2a53d0",
       "type": "hls",
       "mpd_url": "",
       "clearkey": null
     },
     {
-      "name": "India A vs Pakistan Shaheens - 22 Nov 2026 [HIN] - ACC Men's Asia Cup Rising Stars 2026",
+      "name": "1st Test - Day 5 - 23 Nov 2026 [HIN] - India Tour of New Zealand 2026",
       "category": "SonyLIV | Sportlink",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg",
       "tvg_id": "",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795408703~acl=/*~id=87137822640147485118068349416687~hmac=9b77e8533e810a9b2cffe64e1a190c334eafd42f731261e1c8f8a1e67d841836",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795428140~acl=/*~id=99297165139939687625709192096885~hmac=95df7d25e4538e25923866a4f7498e3c014b90132a8323eabdd3efb1aa2a53d0",
       "type": "hls",
       "mpd_url": "",
       "clearkey": null
     },
     {
-      "name": "India A vs Pakistan Shaheens - 22 Nov 2026 [TAM] - ACC Men's Asia Cup Rising Stars 2026",
+      "name": "1st Test - Day 5 - 23 Nov 2026 [TAM] - India Tour of New Zealand 2026",
       "category": "SonyLIV | Sportlink",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg",
       "tvg_id": "",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795408703~acl=/*~id=87137822640147485118068349416687~hmac=9b77e8533e810a9b2cffe64e1a190c334eafd42f731261e1c8f8a1e67d841836",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795428140~acl=/*~id=99297165139939687625709192096885~hmac=95df7d25e4538e25923866a4f7498e3c014b90132a8323eabdd3efb1aa2a53d0",
       "type": "hls",
       "mpd_url": "",
       "clearkey": null
     },
     {
-      "name": "India A vs Pakistan Shaheens - 22 Nov 2026 [TEL] - ACC Men's Asia Cup Rising Stars 2026",
+      "name": "1st Test - Day 5 - 23 Nov 2026 [TEL] - India Tour of New Zealand 2026",
       "category": "SonyLIV | Sportlink",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg",
       "tvg_id": "",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795408703~acl=/*~id=87137822640147485118068349416687~hmac=9b77e8533e810a9b2cffe64e1a190c334eafd42f731261e1c8f8a1e67d841836",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795428140~acl=/*~id=99297165139939687625709192096885~hmac=95df7d25e4538e25923866a4f7498e3c014b90132a8323eabdd3efb1aa2a53d0",
       "type": "hls",
       "mpd_url": "",
       "clearkey": null
     },
     {
-      "name": "India A vs Pakistan Shaheens - 22 Nov 2026 [KAN] - ACC Men's Asia Cup Rising Stars 2026",
+      "name": "1st Test - Day 5 - 23 Nov 2026 [KAN] - India Tour of New Zealand 2026",
       "category": "SonyLIV | Sportlink",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086798991996_NZvsIND_1st_Test_Day5_landscape_thumb.jpg",
       "tvg_id": "",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795408703~acl=/*~id=87137822640147485118068349416687~hmac=9b77e8533e810a9b2cffe64e1a190c334eafd42f731261e1c8f8a1e67d841836",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795428140~acl=/*~id=99297165139939687625709192096885~hmac=95df7d25e4538e25923866a4f7498e3c014b90132a8323eabdd3efb1aa2a53d0",
       "type": "hls",
       "mpd_url": "",
       "clearkey": null
     },
     {
-      "name": "1080_.jpeg\" group-title=\"Willow | Sportlink\",ACC Mens Asia Cup Rising Stars 2026 - 8th Match - India A vs Pakistan A",
+      "name": "1080_.jpeg\" group-title=\"Willow | Sportlink\",India tour of New Zealand 2026 - 1st Test - New Zealand vs India",
       "category": "Uncategorized",
       "logo": "",
-      "tvg_id": "B0HQV79TCV",
-      "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd",
+      "tvg_id": "B0HM4ZHT1F",
+      "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3yznekgktt/out/v1/858249b12acb46b99a95fbfab5887011/cenc.mpd",
       "type": "mpd",
-      "mpd_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd",
+      "mpd_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3yznekgktt/out/v1/858249b12acb46b99a95fbfab5887011/cenc.mpd",
       "clearkey": {
-        "keyId": "437b26c171c8c2b7d3da296992ec0498",
-        "key": "76e472aecda315ee5649fabf54b6a905"
-      }
-    },
-    {
-      "name": "1080_.jpeg\" group-title=\"Willow | Sportlink\",International League T20 2026 - 3rd Match - Dubai Capitals vs Abu Dhabi Knight Riders",
-      "category": "Uncategorized",
-      "logo": "",
-      "tvg_id": "B0HLDX22BX",
-      "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jzvvvvebja/out/v1/0a6f489e0b374910a6e6248e58c42d82/cenc.mpd",
-      "type": "mpd",
-      "mpd_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jzvvvvebja/out/v1/0a6f489e0b374910a6e6248e58c42d82/cenc.mpd",
-      "clearkey": {
-        "keyId": "bc80c0b7f64185f59b3eb9129ea16f4d",
-        "key": "625c429192608e209508a10c86780a7c"
+        "keyId": "a993ba0f7bf4b83d0ccb44a591e2a51c",
+        "key": "2bd5e352dd929f561daa14de1fc1a7a1"
       }
     },
     {
