@@ -1,7 +1,251 @@
 {
   "name": "SDTV LIVE",
-  "total": 334,
+  "total": 359,
   "channels": [
+    {
+      "name": "CBS SPORTS",
+      "category": "Sports",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJhPyLZDiwiY7FRy9piBed75N6nWBusRX166pOUb9o2w&s=10",
+      "tvg_id": "",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+      "clearkey": {
+        "keyId": "d9623774ac5c8c351aafe97c5fe70267",
+        "key": "5164e6d05164a2d65fa8fcc962aa4861"
+      }
+    },
+    {
+      "name": "HBO 1",
+      "category": "✨ HBO TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhSMzOzn6ytx62XOYy4H-tQ2jwWQSXN7dmkJbi_MEm8Q&s=10",
+      "tvg_id": "",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/xrs2ntety1/out/v1/31355dd2ffc64c9dae72ac6fc37dde5a/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/xrs2ntety1/out/v1/31355dd2ffc64c9dae72ac6fc37dde5a/cenc.mpd",
+      "clearkey": {
+        "keyId": "3fafc24484004893326a8354fe889767",
+        "key": "01a4a713abdc5803f4816831ee27906f"
+      }
+    },
+    {
+      "name": "HBO 2",
+      "category": "✨ HBO TV",
+      "logo": "https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_HBO2.png",
+      "tvg_id": "",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zilmviiwo5/out/v1/fe78320a319045d99299fb05208d90af/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zilmviiwo5/out/v1/fe78320a319045d99299fb05208d90af/cenc.mpd",
+      "clearkey": {
+        "keyId": "e8c6a262b77b153530a6caaf2e07944a",
+        "key": "81071cf5808c0387adab93d8ff9b1f09"
+      }
+    },
+    {
+      "name": "HBO LATINO",
+      "category": "✨ HBO TV",
+      "logo": "https://i.imageupload.app/cf5da18084b3cb56ef6f.png",
+      "tvg_id": "",
+      "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pybcooahnm/out/v1/d5a5fd1cd9074da3b20ebdf8ebfaecb6/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pybcooahnm/out/v1/d5a5fd1cd9074da3b20ebdf8ebfaecb6/cenc.mpd",
+      "clearkey": {
+        "keyId": "440df5a5f7730c64f005eec9b12a9b52",
+        "key": "dcad08b714e246f92cb9748f9e2e7e1e"
+      }
+    },
+    {
+      "name": "HBO BOXING",
+      "category": "✨ HBO TV",
+      "logo": "https://www.thefightcity.com/wp-content/uploads/2019/10/HBO-logo-image-1.jpg",
+      "tvg_id": "",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd",
+      "clearkey": {
+        "keyId": "a4b2fe10c9d62d32220e8ea2dceda6f9",
+        "key": "e6e1173c892f7fbd60a37a76a78935cb"
+      }
+    },
+    {
+      "name": "BANDAMAX 🇲🇽",
+      "category": "Movies",
+      "logo": "https://live.staticflickr.com/4036/4464814609_2a65e29e91_b.jpg",
+      "tvg_id": "",
+      "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/5wmhxwdb4l/out/v1/d7b375eb0f1c462f9090428cf2a1e132/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/5wmhxwdb4l/out/v1/d7b375eb0f1c462f9090428cf2a1e132/cenc.mpd",
+      "clearkey": {
+        "keyId": "42095c4a98de2d937e8dd9d59a0da424",
+        "key": "8a4f2ab708e8af3daf9e5bf071f98d05"
+      }
+    },
+    {
+      "name": "BITME",
+      "category": "Movies",
+      "logo": "https://i.ytimg.com/vi/Zup0cgWjBrg/maxresdefault.jpg",
+      "tvg_id": "",
+      "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/qej0n9zmvv/out/v1/93a227dbeef84293b95683c10fd88da2/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/qej0n9zmvv/out/v1/93a227dbeef84293b95683c10fd88da2/cenc.mpd",
+      "clearkey": {
+        "keyId": "391ad12844fdb7c127e2c7ba23582b3b",
+        "key": "6c9b3103cd519fcad556e84f918998cd"
+      }
+    },
+    {
+      "name": "CANAL 5 🇲🇽",
+      "category": "Movies",
+      "logo": "https://m.media-amazon.com/images/I/31BJUooOkfL.jpg",
+      "tvg_id": "",
+      "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+      "clearkey": {
+        "keyId": "d695093ea3e66d75a4d213a3e2cbf360",
+        "key": "01be3f645e89a067d2786c295f68dde4"
+      }
+    },
+    {
+      "name": "UFC",
+      "category": "Sports",
+      "logo": "https://i.pinimg.com/736x/fb/ba/e3/fbbae321652f053755bb43dde2af8975.jpg",
+      "tvg_id": "",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd",
+      "clearkey": {
+        "keyId": "a49085f8da5e65af1efff0edac830b1f",
+        "key": "4659bc58a85c062e3fe0c039a446fe47"
+      }
+    },
+    {
+      "name": "TENNIS 2",
+      "category": "Sports",
+      "logo": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png",
+      "tvg_id": "",
+      "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
+      "clearkey": {
+        "keyId": "59f50679c9e60963bd0cb6640992aaaa",
+        "key": "8685817c4d31f322e08940feeae2855a"
+      }
+    },
+    {
+      "name": "NOVA SPORT 1",
+      "category": "Sports",
+      "logo": "https://mimipipi22.github.io/logo/antik/novasport1.jpg",
+      "tvg_id": "",
+      "url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+      "clearkey": {
+        "keyId": "11223344556677889900112233445566",
+        "key": "4b80724d0ef86bcb2c21f7999d67739d"
+      }
+    },
+    {
+      "name": "NOVA SPORT 2",
+      "category": "Sports",
+      "logo": "https://mimipipi22.github.io/logo/antik/novasport2.jpg",
+      "tvg_id": "",
+      "url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+      "clearkey": {
+        "keyId": "11223344556677889900112233445566",
+        "key": "4b80724d0ef86bcb2c21f7999d67739d"
+      }
+    },
+    {
+      "name": "SPORT 1",
+      "category": "Sports",
+      "logo": "https://mimipipi22.github.io/logo/antik/sport1.jpg",
+      "tvg_id": "",
+      "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+      "clearkey": {
+        "keyId": "11223344556677889900112233445566",
+        "key": "4b80724d0ef86bcb2c21f7999d67739d"
+      }
+    },
+    {
+      "name": "SPORT 2",
+      "category": "Sports",
+      "logo": "https://mimipipi22.github.io/logo/antik/sport2.jpg",
+      "tvg_id": "",
+      "url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+      "clearkey": {
+        "keyId": "11223344556677889900112233445566",
+        "key": "4b80724d0ef86bcb2c21f7999d67739d"
+      }
+    },
+    {
+      "name": "GOLF CHANNEL",
+      "category": "Sports",
+      "logo": "https://mimipipi22.github.io/logo/antik/golfchannel.jpg",
+      "tvg_id": "",
+      "url": "https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "NBA TV",
+      "category": "Sports",
+      "logo": "https://mimipipi22.github.io/logo/sports/nbatv.jpg",
+      "tvg_id": "",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd",
+      "clearkey": {
+        "keyId": "84077d18bcf234a42de3745be106a87f",
+        "key": "aee3069c062ec8ee6bfdd32985f287ef"
+      }
+    },
+    {
+      "name": "SPORTV 1",
+      "category": "Sports",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3b0dAXGFIOAeS7MODLezNl0nCcZkAYwPQowTr8zmFWQ&s=10",
+      "tvg_id": "",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+      "clearkey": {
+        "keyId": "51c0ef23b17297e5c01cd7f36dd0a6ce",
+        "key": "8823f713ba6fdb9bbe0a2ad82d309a4b"
+      }
+    },
+    {
+      "name": "SPORTV 2",
+      "category": "Sports",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtky1Cvd4BedrOlu7O1ZclYOuEdV4aAzi1b6WwH02MvUk2jH43mx8HlML9&s=10",
+      "tvg_id": "",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+      "type": "mpd",
+      "mpd_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+      "clearkey": {
+        "keyId": "9009b7189e3e68cc09d17811f2beb55a",
+        "key": "dd3f96a94c909da48ff40c92aabf8cf3"
+      }
+    },
+    {
+      "name": "SPORTV 3",
+      "category": "Sports",
+      "logo": "https://i.imageupload.app/0baa5d2445321555acf0.png",
+      "tvg_id": "",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+      "clearkey": {
+        "keyId": "902e5ec0e3d05e665daa32fc23f4f59e",
+        "key": "7b2322a273843921a43e2c61dac7cae3"
+      }
+    },
     {
       "name": "MBC SPORTS",
       "category": "Sports",
@@ -98,6 +342,58 @@
       "clearkey": {
         "keyId": "f6564ec2aee819046328a0e153be574d",
         "key": "ff46a8a1031eb27ef22576a077c98ab7"
+      }
+    },
+    {
+      "name": "FOX",
+      "category": "Sports",
+      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",
+      "tvg_id": "",
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd",
+      "clearkey": {
+        "keyId": "0cc2f872759c96de70237e6fa6de03d0",
+        "key": "a879b1d38ed002d4018bce96f9219b8d"
+      }
+    },
+    {
+      "name": "FOX +",
+      "category": "Sports",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB8stl8wRb8FWcaxqUs77fpcF4xfZJSgismBEnu84CHjtIb9_XlYM_FRI&s=10",
+      "tvg_id": "",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
+      "clearkey": {
+        "keyId": "8ec2e6248abe2e10e16e439c9b85ffd8",
+        "key": "f121b015c2a5197828355fb6a874c297"
+      }
+    },
+    {
+      "name": "FS1",
+      "category": "Sports",
+      "logo": "https://iili.io/KYJqv0G.png",
+      "tvg_id": "",
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+      "clearkey": {
+        "keyId": "5466ebd70704bdeb657f0abf3c5ca4ef",
+        "key": "bdd79b72d8e48ed483aa623cc38a8a16"
+      }
+    },
+    {
+      "name": "FS2",
+      "category": "Sports",
+      "logo": "https://iili.io/KYJqv0G.png",
+      "tvg_id": "",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+      "clearkey": {
+        "keyId": "09453ce820d65fbc675de3185f9e454c",
+        "key": "98cff9600995fa381c76fdacf3c7edae"
       }
     },
     {
@@ -334,6 +630,19 @@
       "clearkey": {
         "keyId": "9f327d24c66fbd84e15ab5c9ead7c7a4",
         "key": "83837185529c0c4048f81386c2d36426"
+      }
+    },
+    {
+      "name": "F1 TV US",
+      "category": "Sports",
+      "logo": "https://i.imgur.com/1vqowr7.png",
+      "tvg_id": "",
+      "url": "https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd",
+      "clearkey": {
+        "keyId": "505616380de706936e493fdd1c25d0b6",
+        "key": "5b313f49c63c682236eab3357400e216"
       }
     },
     {
@@ -2474,19 +2783,6 @@
       "clearkey": null
     },
     {
-      "name": "Anmol Cinema 2",
-      "category": "Movies",
-      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/74146d693d6640009a5ed2db2e0c9643/version/0",
-      "tvg_id": "9624885",
-      "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Anmol_Cinema_2/dash/Anmol_Cinema_2.mpd",
-      "type": "mpd",
-      "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Anmol_Cinema_2/dash/Anmol_Cinema_2.mpd",
-      "clearkey": {
-        "keyId": "853c2069c7614ae9a808f17ce59e07ec",
-        "key": "db2807f5a248440bf7a373f111daa89a"
-      }
-    },
-    {
       "name": "Big Magic",
       "category": "Entertainment",
       "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/a4225f7d32c549638e3c8926a78079e6/version/0",
@@ -2502,7 +2798,7 @@
     {
       "name": "DD Bharti",
       "category": "Entertainment",
-      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/9ac9516189654175bffc220b723e928d/version/0",
+      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/352de2ba90694929895751d926b6f3bc/version/0",
       "tvg_id": "9487060",
       "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/DD_Bharti/hls_fta/DD_Bharti.m3u8",
       "type": "hls",
@@ -2555,7 +2851,7 @@
     {
       "name": "News Nation",
       "category": "News",
-      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/9c50bb3d0a9341a1a631f1423591afef/version/0",
+      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/d69dfc0396864d8f8329566e4aa7dbc1/version/0",
       "tvg_id": "9487062",
       "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/News_Nation/hls_fta/News_Nation.m3u8",
       "type": "hls",
@@ -2575,7 +2871,7 @@
     {
       "name": "Sangeet Bhojpuri",
       "category": "Music",
-      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/032d38ed29b54e51a6e0575bd9e0d837/version/0",
+      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/8a99957d3eda4cc5a308ad0a90d92c1e/version/0",
       "tvg_id": "9487059",
       "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Sangeet_Bhojpuri/hls_fta/Sangeet_Bhojpuri.m3u8",
       "type": "hls",
@@ -2605,7 +2901,7 @@
     {
       "name": "Times Now",
       "category": "News",
-      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/162d960506c64575affc1c4825c3ae75/version/0",
+      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/ff9991eb1ad44ddca1df937a771c583d/version/0",
       "tvg_id": "9487067",
       "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Times_Now/dash/Times_Now.mpd",
       "type": "mpd",
@@ -2846,13 +3142,13 @@
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_News/dash/Zee_News.mpd",
       "clearkey": {
         "keyId": "42015c54327f4a888abc9b39a2a09189",
-        "key": "52c5a0cfebd51137d96f7580c0a063a0"
+        "key": "37a18da2ab7227bfa01b54e372c63438"
       }
     },
     {
       "name": "Zee Power",
       "category": "Entertainment",
-      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/d048d81770964b929d4dc3b32a2cc903/version/0",
+      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/c3166a46bb1945638c6c62bd2aa8bff5/version/0",
       "tvg_id": "9649339",
       "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Power/dash/Zee_Power.mpd",
       "type": "mpd",
@@ -2878,7 +3174,7 @@
     {
       "name": "Zee Sarthak",
       "category": "Entertainment",
-      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/c86007cd6db744eeb8b6f8431e4f363a/version/0",
+      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/9e787a13afa1447abde693bf57f7f9db/version/0",
       "tvg_id": "9487093",
       "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Sarthak/dash/Zee_Sarthak.mpd",
       "type": "mpd",
@@ -2969,7 +3265,7 @@
     {
       "name": "Zee Zest",
       "category": "Entertainment",
-      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/180b6b1cab5e4dd4bd44f50d80045491/version/0",
+      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/d2cc8c4a35c44b0bb21c05185150f4a0/version/0",
       "tvg_id": "9650645",
       "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Zest_SD/dash/Zee_Zest_SD.mpd",
       "type": "mpd",
@@ -3006,65 +3302,79 @@
       }
     },
     {
-      "name": "UAE vs Nepal - 22 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026",
+      "name": "India A vs Pakistan Shaheens - 22 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026",
       "category": "SonyLIV | Sportlink",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029496/1795182383971360_AsiaCup_RisingStar_UAE_vs_NEPAL_Live_landscape_thumb.jpg",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
       "tvg_id": "",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795378859~acl=/*~id=50080320183502394010339485441216~hmac=0abbc965e520a571e4da3a3f832fcbc6d79fcfccb7b9547073b733e48d5f4ea0",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795408703~acl=/*~id=87137822640147485118068349416687~hmac=9b77e8533e810a9b2cffe64e1a190c334eafd42f731261e1c8f8a1e67d841836",
       "type": "hls",
       "mpd_url": "",
       "clearkey": null
     },
     {
-      "name": "1080_.jpeg\" group-title=\"Willow | Sportlink\",Womens Big Bash League 2026 - 31st Match - Brisbane Heat Women vs Adelaide Strikers Women",
+      "name": "India A vs Pakistan Shaheens - 22 Nov 2026 [HIN] - ACC Men's Asia Cup Rising Stars 2026",
+      "category": "SonyLIV | Sportlink",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
+      "tvg_id": "",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795408703~acl=/*~id=87137822640147485118068349416687~hmac=9b77e8533e810a9b2cffe64e1a190c334eafd42f731261e1c8f8a1e67d841836",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "India A vs Pakistan Shaheens - 22 Nov 2026 [TAM] - ACC Men's Asia Cup Rising Stars 2026",
+      "category": "SonyLIV | Sportlink",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
+      "tvg_id": "",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795408703~acl=/*~id=87137822640147485118068349416687~hmac=9b77e8533e810a9b2cffe64e1a190c334eafd42f731261e1c8f8a1e67d841836",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "India A vs Pakistan Shaheens - 22 Nov 2026 [TEL] - ACC Men's Asia Cup Rising Stars 2026",
+      "category": "SonyLIV | Sportlink",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
+      "tvg_id": "",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795408703~acl=/*~id=87137822640147485118068349416687~hmac=9b77e8533e810a9b2cffe64e1a190c334eafd42f731261e1c8f8a1e67d841836",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "India A vs Pakistan Shaheens - 22 Nov 2026 [KAN] - ACC Men's Asia Cup Rising Stars 2026",
+      "category": "SonyLIV | Sportlink",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
+      "tvg_id": "",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795408703~acl=/*~id=87137822640147485118068349416687~hmac=9b77e8533e810a9b2cffe64e1a190c334eafd42f731261e1c8f8a1e67d841836",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "1080_.jpeg\" group-title=\"Willow | Sportlink\",ACC Mens Asia Cup Rising Stars 2026 - 8th Match - India A vs Pakistan A",
       "category": "Uncategorized",
       "logo": "",
-      "tvg_id": "B0HNPCVCZ2",
-      "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ilhybzuiyi/out/v1/04f4624f561f4dd69467e1e219f03568/cenc.mpd",
+      "tvg_id": "B0HQV79TCV",
+      "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd",
       "type": "mpd",
-      "mpd_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ilhybzuiyi/out/v1/04f4624f561f4dd69467e1e219f03568/cenc.mpd",
+      "mpd_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd",
       "clearkey": {
-        "keyId": "f91b8bf06f3e791e41238b4190311c9e",
-        "key": "eff5b8fafef1f8b3d988be38ff7e539e"
+        "keyId": "437b26c171c8c2b7d3da296992ec0498",
+        "key": "76e472aecda315ee5649fabf54b6a905"
       }
     },
     {
-      "name": "1080_.jpeg\" group-title=\"Willow | Sportlink\",ACC Mens Asia Cup Rising Stars 2026 - 7th Match - United Arab Emirates vs Nepal",
+      "name": "1080_.jpeg\" group-title=\"Willow | Sportlink\",International League T20 2026 - 3rd Match - Dubai Capitals vs Abu Dhabi Knight Riders",
       "category": "Uncategorized",
       "logo": "",
-      "tvg_id": "B0HR8QKWKL",
-      "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd",
+      "tvg_id": "B0HLDX22BX",
+      "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jzvvvvebja/out/v1/0a6f489e0b374910a6e6248e58c42d82/cenc.mpd",
       "type": "mpd",
-      "mpd_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd",
+      "mpd_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jzvvvvebja/out/v1/0a6f489e0b374910a6e6248e58c42d82/cenc.mpd",
       "clearkey": {
-        "keyId": "7341f16081ecb92ed172ef9df6f443ce",
-        "key": "566b8cf0a31255d55785b24ade0a999c"
-      }
-    },
-    {
-      "name": "1080_.jpeg\" group-title=\"Willow | Sportlink\",T20 Gold Clash 2026 - Team Footy vs Team Cricket",
-      "category": "Uncategorized",
-      "logo": "",
-      "tvg_id": "B0HQMYSWV3",
-      "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xgfd9i7tfz/out/v1/1eaf54b1b8e94b54b0da8a41aeeee490/cenc.mpd",
-      "type": "mpd",
-      "mpd_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xgfd9i7tfz/out/v1/1eaf54b1b8e94b54b0da8a41aeeee490/cenc.mpd",
-      "clearkey": {
-        "keyId": "fcf78c73ab89e0e6ef4ad2f5430d6bf8",
-        "key": "a2aa49b85e6f40263207b06f18242ec9"
-      }
-    },
-    {
-      "name": "1080_.jpeg\" group-title=\"Willow | Sportlink\",Womens Big Bash League 2026 - 32nd Match - Melbourne Stars Women vs Melbourne Renegades Women",
-      "category": "Uncategorized",
-      "logo": "",
-      "tvg_id": "B0HKQ8LF47",
-      "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd",
-      "type": "mpd",
-      "mpd_url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd",
-      "clearkey": {
-        "keyId": "e929ffbf0190098c52fa2c689dd2311e",
-        "key": "b499ea7a1c854eaddbf3021a7b3d40bc"
+        "keyId": "bc80c0b7f64185f59b3eb9129ea16f4d",
+        "key": "625c429192608e209508a10c86780a7c"
       }
     },
     {
