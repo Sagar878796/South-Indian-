@@ -1,7 +1,197 @@
 {
   "name": "SDTV LIVE",
-  "total": 356,
+  "total": 378,
   "channels": [
+    {
+      "name": "Cricbuzz",
+      "category": "Sports",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLI9VOrJeNy9-XSOaFeQZqyo6MO2rsONjq40PFx1rfYAvYRhoBWTSEO5k&s=10",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809382.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "WILLOW CRICKET HD",
+      "category": "Sports",
+      "logo": "https://iili.io/ofHOp4f.png",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809386.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "WILLOW CRICKET EXTRA HD",
+      "category": "Sports",
+      "logo": "https://iili.io/ofHjrrl.webp",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809387.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "FOX SPORTS 501",
+      "category": "Sports",
+      "logo": "https://img-284.media.info/i/bg/6/6550-1489224113.webp",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809389.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "SKY SPORTS CRICKET",
+      "category": "Sports",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLNp49ocQvvM0FROVLsNiWeWKdhhjBsB0ZfBHVdg_Oq8EoYJnr4kGtekY&s=10",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809390.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "SKY SPORT 1",
+      "category": "Sports",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiCaDVOGM8wgBw18Mei1njcVTupogaZeOSI-W0TurByB960mN39vdPaKz-&s=10",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809392.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "SKY SPORT 2",
+      "category": "Sports",
+      "logo": "https://img.dge-prod.dicelaboratory.com/thumbnails/219027/original/latest.jpg",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809393.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "SKY SPORT 3",
+      "category": "Sports",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgRPRTdN80czHlpzRGR6wKKMotkgSlaTNMqQPlysZwSg&s=10",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809394.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "SKY SPORT 4",
+      "category": "Sports",
+      "logo": "https://iili.io/ofJBEwG.jpg",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809395.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "SKY SPORT 5",
+      "category": "Sports",
+      "logo": "https://iili.io/ofJC00B.jpg",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809375.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "SKY SPORT 6",
+      "category": "Sports",
+      "logo": "https://iili.io/ofJTTJV.webp",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809374.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "SKY SPORT SELECT",
+      "category": "Sports",
+      "logo": "https://iili.io/ofHtIf4.webp",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809380.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "GEO SUPER HD",
+      "category": "Sports",
+      "logo": "https://mir-s3-cdn-cf.behance.net/projects/404/20544409.543ef2ba8dc15.png",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809399.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "TEN SPORTS HD",
+      "category": "Sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809396.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "A SPORTS HD",
+      "category": "Sports",
+      "logo": "https://yt3.googleusercontent.com/7ko4g0YM7E49IIbhfMhYJOWGTCIAuASHcPXRsBPWMOiBIuM0tBHe2Z9OVkzO1vVSxGSDZ1f1Sg=s900-c-k-c0x00ffffff-no-rj",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809397.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "PTV SPORTS HD",
+      "category": "Sports",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVFleoiAWTHl91Vrv_BFgX6b45aKyrus86umMdCbXJ8E_6UG4DrFY0DKw&s=10",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809398.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "RUSH SPORTS",
+      "category": "Sports",
+      "logo": "https://amplia.co.tt/web_storage/2026/04/rush-sports-logo.png",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809405.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "RUSH SPORTS 2 HD",
+      "category": "Sports",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmJJdor7PzmvZw8zhZQQHfXbA_GgGDkBG6IKSNoemIRN0TPipN1RK8NCo&s=10",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809406.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "FLOW SPORTS HD",
+      "category": "Sports",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQxWPzKoVTCrkqygZjyBWj9Q7yVYq01uOSsMx205cdD-WQ7QOccFcSD_L&s=10",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809404.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
     {
       "name": "CBS SPORTS",
       "category": "Sports",
@@ -2864,7 +3054,7 @@
     {
       "name": "News Nation",
       "category": "News",
-      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/d69dfc0396864d8f8329566e4aa7dbc1/version/0",
+      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/9c50bb3d0a9341a1a631f1423591afef/version/0",
       "tvg_id": "9487062",
       "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/News_Nation/hls_fta/News_Nation.m3u8",
       "type": "hls",
@@ -2884,7 +3074,7 @@
     {
       "name": "Sangeet Bhojpuri",
       "category": "Music",
-      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/8a99957d3eda4cc5a308ad0a90d92c1e/version/0",
+      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/032d38ed29b54e51a6e0575bd9e0d837/version/0",
       "tvg_id": "9487059",
       "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Sangeet_Bhojpuri/hls_fta/Sangeet_Bhojpuri.m3u8",
       "type": "hls",
@@ -2979,7 +3169,7 @@
     {
       "name": "Zee Action",
       "category": "Movies",
-      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/34108078d7874122b00072cb48a6968a/version/0",
+      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/1939be35954742989bd03c0108a64f4c/version/0",
       "tvg_id": "9487052",
       "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Action/dash/Zee_Action.mpd",
       "type": "mpd",
@@ -3042,6 +3232,32 @@
       }
     },
     {
+      "name": "ZEE Bharat",
+      "category": "Entertainment",
+      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/f852d000d92b402e9693d41a1cd6528b/version/0",
+      "tvg_id": "9825959",
+      "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_BHARAT/dash/Zee_BHARAT.mpd",
+      "type": "mpd",
+      "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_BHARAT/dash/Zee_BHARAT.mpd",
+      "clearkey": {
+        "keyId": "6e5cabf703ee401f8da35db218cbbafc",
+        "key": "75c32fef085dd9744bbd3d2a8db143b1"
+      }
+    },
+    {
+      "name": "Zee Bihar Jharkhand",
+      "category": "Entertainment",
+      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/90c072dc5c8a4136a167cadeb02d1445/version/0",
+      "tvg_id": "9825962",
+      "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Bihar_Jharkhand/dash/Zee_Bihar_Jharkhand.mpd",
+      "type": "mpd",
+      "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Bihar_Jharkhand/dash/Zee_Bihar_Jharkhand.mpd",
+      "clearkey": {
+        "keyId": "6d477b6e5624487badfad365fca4d9e8",
+        "key": "ca01ec1039acbaba0e47dddc9c6b3e42"
+      }
+    },
+    {
       "name": "Zee Biskope",
       "category": "Entertainment",
       "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/bb424c74bfd54392a86b4a343996b6d5/version/0",
@@ -3068,6 +3284,19 @@
       }
     },
     {
+      "name": "Zee Business",
+      "category": "Entertainment",
+      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/0eee91d012274ebd863d40ddfb7e497d/version/0",
+      "tvg_id": "9825964",
+      "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Business/dash/Zee_Business.mpd",
+      "type": "mpd",
+      "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Business/dash/Zee_Business.mpd",
+      "clearkey": {
+        "keyId": "3b8d8bf190a44aaaa845b3ad7fdee95a",
+        "key": "86e31ded4e6ed33d0c1c16f69f39ab20"
+      }
+    },
+    {
       "name": "Zee Cinema HD",
       "category": "Movies",
       "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/d2316f5734094e8486486d6911fe6560/version/0",
@@ -3083,7 +3312,7 @@
     {
       "name": "Zee Cinemalu HD",
       "category": "Movies",
-      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/a33211ad359a4cba8b23144e4081ff68/version/0",
+      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/b9ab293f61c24d7697352215c83ce463/version/0",
       "tvg_id": "9624889",
       "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Cinemalu_HD/dash/Zee_Cinemalu_HD.mpd",
       "type": "mpd",
@@ -3104,6 +3333,19 @@
       "clearkey": {
         "keyId": "c6537cc1cb4544fca1e2a8e110cf2da6",
         "key": "2f0e2c08dc080d9ddad7bce5ee7b5475"
+      }
+    },
+    {
+      "name": "Zee Delhi NCR Haryana",
+      "category": "Entertainment",
+      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/ce7d48501c344dbb9fbcbd227a9fc6c7/version/0",
+      "tvg_id": "9825961",
+      "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_NCR/dash/ZEE_NCR.mpd",
+      "type": "mpd",
+      "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_NCR/dash/ZEE_NCR.mpd",
+      "clearkey": {
+        "keyId": "5469454a452f4c69baae01fb4b1244eb",
+        "key": "1fdcee777f174ad833aed40fe1ed33a2"
       }
     },
     {
@@ -3146,6 +3388,19 @@
       }
     },
     {
+      "name": "Zee MP Chattisgarh",
+      "category": "Entertainment",
+      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/3dd06e1b5f9f498987b4bad81a153c56/version/0",
+      "tvg_id": "9825963",
+      "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_MP_Chattisgarh/dash/Zee_MP_Chattisgarh.mpd",
+      "type": "mpd",
+      "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_MP_Chattisgarh/dash/Zee_MP_Chattisgarh.mpd",
+      "clearkey": {
+        "keyId": "bcda6062ff7848dc8f1cf322bd65f399",
+        "key": "5584aa963c8d84f0a005b33aac1a3ec9"
+      }
+    },
+    {
       "name": "Zee News",
       "category": "News",
       "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/087a098c826c480796c1e9ac0ade0d82/version/0",
@@ -3169,6 +3424,19 @@
       "clearkey": {
         "keyId": "a33743a1a81e46999b9b7ef84d67c9cc",
         "key": "7d83d3c14bd02ddb492193f88281177c"
+      }
+    },
+    {
+      "name": "Zee Punjab Haryana Himachal",
+      "category": "Entertainment",
+      "logo": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/6f2eafd18aa04eb8a8e9e712d7f68929/version/0",
+      "tvg_id": "9825965",
+      "url": "https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_PUNJAB_HARYANA_HIMACHAL/dash/ZEE_PUNJAB_HARYANA_HIMACHAL.mpd",
+      "type": "mpd",
+      "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_PUNJAB_HARYANA_HIMACHAL/dash/ZEE_PUNJAB_HARYANA_HIMACHAL.mpd",
+      "clearkey": {
+        "keyId": "4c2a17d4fedf4533abad8988ecdc7ee9",
+        "key": "e998f47b41c1c4f5df0255690554dac9"
       }
     },
     {
@@ -3312,42 +3580,6 @@
       "clearkey": {
         "keyId": "07b6a48d3a094539af45382c1b748bd3",
         "key": "326ce2fd8f8cdae580c9776af2e702ec"
-      }
-    },
-    {
-      "name": "Sri Lanka A vs Bangladesh A - 23 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026",
-      "category": "SonyLIV | Sportlink",
-      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029679/1795357669078765_ACRS26_SL_A_VS_BAN_A_landscape_thumb.jpg",
-      "tvg_id": "",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795476753~acl=/*~id=87164688469208994134537912268841~hmac=b24c2aa5fcaf5a0c3adf8707489e1bfaf98fe2a6038c1a4cd7cca8de3cb1533d",
-      "type": "hls",
-      "mpd_url": "",
-      "clearkey": null
-    },
-    {
-      "name": "1080_.jpeg\" group-title=\"Willow | Sportlink\",Bangladesh tour of South Africa 2026 - 2nd Test - South Africa vs Bangladesh",
-      "category": "Uncategorized",
-      "logo": "",
-      "tvg_id": "B0HQPR4M9Q",
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xqyqdravz1/out/v1/0a61d15fb7af4fd98f565cabbc5d9dd8/cenc.mpd",
-      "type": "mpd",
-      "mpd_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xqyqdravz1/out/v1/0a61d15fb7af4fd98f565cabbc5d9dd8/cenc.mpd",
-      "clearkey": {
-        "keyId": "ef575f9bbbc7bd252eb629553c04b572",
-        "key": "036c3c66e6cb484e0c57d37763f65bca"
-      }
-    },
-    {
-      "name": "1080_.jpeg\" group-title=\"Willow | Sportlink\",ACC Mens Asia Cup Rising Stars 2026 - 10th Match - Sri Lanka A vs Bangladesh A",
-      "category": "Uncategorized",
-      "logo": "",
-      "tvg_id": "B0HMP693D5",
-      "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6mhsahjkto/out/v1/29e8b344082d4ab6b7c0bb838956ea02/cenc.mpd",
-      "type": "mpd",
-      "mpd_url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6mhsahjkto/out/v1/29e8b344082d4ab6b7c0bb838956ea02/cenc.mpd",
-      "clearkey": {
-        "keyId": "1f5fcb1ee0ebcdf807d4807767ee66a0",
-        "key": "dac7ee8c999b9516a04f0c0bdd3aef34"
       }
     },
     {
