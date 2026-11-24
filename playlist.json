@@ -1,7 +1,17 @@
 {
   "name": "SDTV LIVE",
-  "total": 378,
+  "total": 388,
   "channels": [
+    {
+      "name": "T sports HD",
+      "category": "Sports",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJeIJ7nGU2y9uCXWzA0ndZSf0wnDcW2buD1nOOOj1_r4C4KxSs85c9xCh&s=10",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=908649.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
     {
       "name": "Cricbuzz",
       "category": "Sports",
@@ -108,6 +118,36 @@
       "logo": "https://iili.io/ofJTTJV.webp",
       "tvg_id": "",
       "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809374.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "SKY SPORT 7",
+      "category": "Sports",
+      "logo": "https://iili.io/ofBCeIV.webp",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809373.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "SKY SPORT 8",
+      "category": "Sports",
+      "logo": "https://iili.io/ofBCvLP.webp",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809372.m3u8",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "SKY SPORT 9",
+      "category": "Sports",
+      "logo": "https://iili.io/ofBCkhB.webp",
+      "tvg_id": "",
+      "url": "https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809371.m3u8",
       "type": "hls",
       "mpd_url": "",
       "clearkey": null
@@ -2981,8 +3021,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Anmol_Cinema_2/dash/Anmol_Cinema_2.mpd",
       "clearkey": {
-        "keyId": "853c2069c7614ae9a808f17ce59e07ec",
-        "key": "db2807f5a248440bf7a373f111daa89a"
+        "keyId": "2540babf314f46999d717d4a6c99b009",
+        "key": "b802f476b254a8c5efa27bcb249a9506"
       }
     },
     {
@@ -3175,8 +3215,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Action/dash/Zee_Action.mpd",
       "clearkey": {
-        "keyId": "51c4a499c08a4f53be91894b8947ab3f",
-        "key": "3b685d2eb855611b8654760f397c05c6"
+        "keyId": "08c3d3f0e3bc49d694229a0d7f341a99",
+        "key": "c9ef1aef542b7ee1ed745990e38c93cc"
       }
     },
     {
@@ -3422,8 +3462,8 @@
       "type": "mpd",
       "mpd_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Power/dash/Zee_Power.mpd",
       "clearkey": {
-        "keyId": "a33743a1a81e46999b9b7ef84d67c9cc",
-        "key": "7d83d3c14bd02ddb492193f88281177c"
+        "keyId": "3ef16277a8624da8bc3d31c5783be7be",
+        "key": "6f4b49255a635f96886465adeaee6287"
       }
     },
     {
@@ -3580,6 +3620,69 @@
       "clearkey": {
         "keyId": "07b6a48d3a094539af45382c1b748bd3",
         "key": "326ce2fd8f8cdae580c9776af2e702ec"
+      }
+    },
+    {
+      "name": "India A vs UAE - 24 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026",
+      "category": "SonyLIV | Sportlink",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg",
+      "tvg_id": "",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795545814~acl=/*~id=69105251172995270420076996642230~hmac=b56b2bb267ffbb8ac7318afa65783074e9559d5bee78fbb7b090c8163e8a4a04",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "India A vs UAE - 24 Nov 2026 [HIN] - ACC Men's Asia Cup Rising Stars 2026",
+      "category": "SonyLIV | Sportlink",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg",
+      "tvg_id": "",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795545814~acl=/*~id=69105251172995270420076996642230~hmac=b56b2bb267ffbb8ac7318afa65783074e9559d5bee78fbb7b090c8163e8a4a04",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "India A vs UAE - 24 Nov 2026 [TAM] - ACC Men's Asia Cup Rising Stars 2026",
+      "category": "SonyLIV | Sportlink",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg",
+      "tvg_id": "",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795545814~acl=/*~id=69105251172995270420076996642230~hmac=b56b2bb267ffbb8ac7318afa65783074e9559d5bee78fbb7b090c8163e8a4a04",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "India A vs UAE - 24 Nov 2026 [TEL] - ACC Men's Asia Cup Rising Stars 2026",
+      "category": "SonyLIV | Sportlink",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg",
+      "tvg_id": "",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795545814~acl=/*~id=69105251172995270420076996642230~hmac=b56b2bb267ffbb8ac7318afa65783074e9559d5bee78fbb7b090c8163e8a4a04",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "India A vs UAE - 24 Nov 2026 [KAN] - ACC Men's Asia Cup Rising Stars 2026",
+      "category": "SonyLIV | Sportlink",
+      "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg",
+      "tvg_id": "",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795545814~acl=/*~id=69105251172995270420076996642230~hmac=b56b2bb267ffbb8ac7318afa65783074e9559d5bee78fbb7b090c8163e8a4a04",
+      "type": "hls",
+      "mpd_url": "",
+      "clearkey": null
+    },
+    {
+      "name": "1080_.jpeg\" group-title=\"Willow | Sportlink\",ACC Mens Asia Cup Rising Stars 2026 - 11th Match - India A vs United Arab Emirates",
+      "category": "Uncategorized",
+      "logo": "",
+      "tvg_id": "B0HR6PG192",
+      "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd",
+      "type": "mpd",
+      "mpd_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd",
+      "clearkey": {
+        "keyId": "531497de47944ade5410fe5852905698",
+        "key": "574547fdae92793f4630b65dade01761"
       }
     },
     {
